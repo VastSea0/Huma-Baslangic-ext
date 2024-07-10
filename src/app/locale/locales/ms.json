@@ -1,0 +1,1321 @@
+{
+    "languageName": {
+        "message": "Bahasa Melayu",
+        "description": "The name of the current language, to be used in the settings dialog"
+    },
+    "+GMx80": {
+        "message": "Tiada lokasi dijumpai",
+        "description": "Location form field: error"
+    },
+    "0feb3b": {
+        "message": "Pilihan, jadikan imej sebagai pautan",
+        "description": "Image widget: Form field hint (Link)"
+    },
+    "3ZfhWo": {
+        "message": "Kebenaran diperlukan untuk mencapai {host}. Edit widget ini untuk berikannya."
+    },
+    "6pdO6i": {
+        "message": "Gagal dapatkan tanda buku",
+        "description": "Bookmarks widget: error message"
+    },
+    "8J0Bhj": {
+        "message": "Selamat datang ke <a>Renewed Tab</a>: halaman Tab Baharu yang boleh disesuaikan, dengan widget dan latar yang permai."
+    },
+    "+oSH/F": {
+        "message": "Menyatakan umur anda dengan terlampau tepat",
+        "description": "Age widget description"
+    },
+    "/dtDqf": {
+        "message": "Nota",
+        "description": "Notes Widget"
+    },
+    "0hxZWu": {
+        "message": "Ikon",
+        "description": "Form field label"
+    },
+    "1s5GYl": {
+        "message": "Kelegapan",
+        "description": "Form field label"
+    },
+    "27lljH": {
+        "message": "Anda berumur <b>{age}</b>",
+        "description": "Age widget text"
+    },
+    "2efE5y": {
+        "message": "Kata Sapaan",
+        "description": "Greeting Widget"
+    },
+    "3/EBw0": {
+        "message": "Laman sesawang",
+        "description": "Renewed Tab website"
+    },
+    "3Nw7b0": {
+        "message": "Nama enjin carian",
+        "description": "Search widget: form field label"
+    },
+    "3aaibf": {
+        "message": "Tambah Widget"
+    },
+    "3vh5vd": {
+        "message": "Tunjukkan kekosongan, berguna untuk tujuan tataletak",
+        "description": "Invisible widget description"
+    },
+    "47FYwb": {
+        "message": "Batal"
+    },
+    "4F+2K3": {
+        "message": "Imej rawak daripada himpunan Unsplash",
+        "description": "Backgroud mode description"
+    },
+    "4UpnpD": {
+        "message": "Imej disimpan secara tempatan di pelayar anda, dan tidak pernah dimuat naikkan",
+        "description": "Form field hint (Image)"
+    },
+    "4syC1B": {
+        "message": "Bantuan dan Permintaan"
+    },
+    "5DCxT+": {
+        "message": "Unit Suhu",
+        "description": "Weather widget: form field label"
+    },
+    "7OH6mh": {
+        "message": "Imej",
+        "description": "Image Widget"
+    },
+    "8xVVb5": {
+        "message": "Warna Utama",
+        "description": "Theme settings: form field label"
+    },
+    "OBJta4": {
+        "message": "Anda boleh tukar nama dengan klik padanya di widget",
+        "description": "Greeting widget: edit modal hint"
+    },
+    "fW8Xpd": {
+        "message": "Lokasi diperlukan. Klik pada edit untuk menambahnya.",
+        "description": "Weather widget: location needed error"
+    },
+    "V1EIOe": {
+        "message": "Tunjukkan halaman sesawang",
+        "description": "IFrame widget description"
+    },
+    "WZjKFf": {
+        "message": "Amaran: ini mungkin mengandungi data peribadi, jika ada apa-apa yang dimasukkan ke tetapan widget."
+    },
+    "lYJGY5": {
+        "message": "URL Imej",
+        "description": "Image URL background mode"
+    },
+    "zKofmb": {
+        "message": "ID himpunan. Boleh dijumpai dalam URL, contoh: 42576559",
+        "description": "Backgroud settings: form field hint (Unsplash Collection)"
+    },
+    "ZZIlU9": {
+        "message": "Matlamat Harian",
+        "description": "Daily Goal Widget"
+    },
+    "aaxFkJ": {
+        "message": "Cipta item tugasan baharu",
+        "description": "Todo List widget: prompt"
+    },
+    "9+2gJZ": {
+        "message": "Widget ini memerlukan versi sambungan pelayar."
+    },
+    "AgU+/t": {
+        "message": "Senarai pelancaran angkasa yang akan datang, disediakan oleh RocketLaunch.Live",
+        "description": "SpaceFlights widget description"
+    },
+    "Bl74xq": {
+        "message": "Butang pautan",
+        "description": "Button widget description"
+    },
+    "CmRs9p": {
+        "message": "Gelintar",
+        "description": "Search Widget"
+    },
+    "CshCZY": {
+        "message": "Jenis Latar Belakang"
+    },
+    "D0+wcK": {
+        "message": "Paparkan imej, boleh pilih untuk jadikannya pautan",
+        "description": "Image widget description"
+    },
+    "D3idYv": {
+        "message": "Tetapan"
+    },
+    "G6WG/N": {
+        "message": "Tidak Kelihatan",
+        "description": "Invisible Widget"
+    },
+    "GSox4d": {
+        "message": "Sebarang nama fon yang dipasang di komputer anda",
+        "description": "Theme settings: form field hint (Font)"
+    },
+    "GWRKVT": {
+        "message": "Warna Teks",
+        "description": "Form field label"
+    },
+    "GXkv/F": {
+        "message": "Sila pilih lokasi",
+        "description": "Location form field: prompt"
+    },
+    "GqPEp+": {
+        "message": "Memerlukan versi sambungan pelayar"
+    },
+    "H00a0q": {
+        "message": "Tinggalkan kosong untuk jadikan pengepala",
+        "description": "Links widget, form field hint (Link URL)"
+    },
+    "J91edI": {
+        "message": "Import / Eksport",
+        "description": "Settings tab"
+    },
+    "JvOSvX": {
+        "message": "Latar Belakang",
+        "description": "Settings tab"
+    },
+    "K3r6DQ": {
+        "message": "Padam"
+    },
+    "K8s82y": {
+        "message": "Tarikh lahir",
+        "description": "Age widget: form field label"
+    },
+    "Kzo9ZH": {
+        "message": "URL Imej",
+        "description": "Form field label"
+    },
+    "LfHpBk": {
+        "message": "Penskalaan Fon",
+        "description": "Theme settings: form field label"
+    },
+    "Lxc1x4": {
+        "message": "Jam",
+        "description": "Clock Widget"
+    },
+    "MN3prI": {
+        "message": "Sertakan folder sebagai bahagian",
+        "description": "Bookmarks widget: form field label"
+    },
+    "N/7Stk": {
+        "message": "Dicipta oleh <a>rubenwardy</a>."
+    },
+    "OQHLB5": {
+        "message": "Warna",
+        "description": "Form field label"
+    },
+    "PM6qZ7": {
+        "message": "Tunjukkan saat"
+    },
+    "Q1mwPp": {
+        "message": "Apa kata anda <a>menyumbang atau menambah bahasa anda</a>."
+    },
+    "QqE4JC": {
+        "message": "URL suapan tiada isi."
+    },
+    "RZqASt": {
+        "message": "Warna tunggal",
+        "description": "Backgroud mode description"
+    },
+    "S3njcM": {
+        "message": "IFrame",
+        "description": "IFrame Widget"
+    },
+    "SAo61B": {
+        "message": "Tanda Buku",
+        "description": "Bookmarks Widget"
+    },
+    "SG4UJU": {
+        "message": "Butang",
+        "description": "Button Widget"
+    },
+    "ShQneX": {
+        "message": "Teks",
+        "description": "Form field label"
+    },
+    "T/wBPw": {
+        "message": "Buang {type}"
+    },
+    "T4VxQN": {
+        "message": "Memuatkan…"
+    },
+    "TUnCKb": {
+        "message": "Teks",
+        "description": "Text Widget"
+    },
+    "TkgCJ9": {
+        "message": "Anda boleh dapatkan bantuan atau meminta sifat menggunakan pautan berikut."
+    },
+    "U2Qnh7": {
+        "message": "Imej",
+        "description": "Image background mode"
+    },
+    "VPDVTF": {
+        "message": "Tiada apa-apa di sini",
+        "description": "Shown when array table form field has no rows"
+    },
+    "VjDvbL": {
+        "message": "URL",
+        "description": "Form field label"
+    },
+    "VkW6D1": {
+        "message": "center (tengah), top (atas), atau bottom (bawah)",
+        "description": "Backgroud settings: form field hint (Position)"
+    },
+    "WF5DKA": {
+        "message": "Umur",
+        "description": "Age widget"
+    },
+    "WKiXhX": {
+        "message": "Warna",
+        "description": "Color background mode"
+    },
+    "Wi0G88": {
+        "message": "Perihal dan Bantuan",
+        "description": "Settings tab"
+    },
+    "X18x9m": {
+        "message": "Umum",
+        "description": "Settings tab"
+    },
+    "X5OoHJ": {
+        "message": "Apakah matlamat anda untuk hari ini?",
+        "description": "Daily Goal prompt"
+    },
+    "XrQEPN": {
+        "message": "Lokasi",
+        "description": "Form field label"
+    },
+    "XsTD4Q": {
+        "message": "Senarai Tugasan",
+        "description": "Todo List Widget"
+    },
+    "YS5zRT": {
+        "message": "Cari guna {name}",
+        "description": "Search widget: searchbox placeholder text, when search engine name is known"
+    },
+    "YYoBQn": {
+        "message": "Jejari Kekaburan Panel",
+        "description": "Theme settings: form field label"
+    },
+    "Z2/hH0": {
+        "message": "Imej: {filename}"
+    },
+    "Z79HMN": {
+        "message": "Latar belakang diberikan secara rawak",
+        "description": "Backgroud mode description"
+    },
+    "ZRWjTk": {
+        "message": "Gunakan enjin carian lalai pelayar",
+        "description": "Search widget: form field label"
+    },
+    "ZUZeuR": {
+        "message": "Tunjukkan mesej",
+        "description": "Text widget description"
+    },
+    "a09vzt": {
+        "message": "Permintaan HTTP gagal, {code} {msg}."
+    },
+    "amHvKE": {
+        "message": "Masukkan nota di sini",
+        "description": "Notes widget: prompt"
+    },
+    "ao/AFQ": {
+        "message": "Mengingatkan anda mengenai matlamat harian",
+        "description": "Daily Goal widget description"
+    },
+    "bQFsdR": {
+        "message": "Berikan kebenaran untuk mencapai {host}"
+    },
+    "cR7nCG": {
+        "message": "Tetapkan semula tema menjadi asal"
+    },
+    "cSF2y1": {
+        "message": "Tunjukkan tanda buku anda",
+        "description": "Bookmarks widget description"
+    },
+    "dGu5JQ": {
+        "message": "Suapan",
+        "description": "Feed Widget"
+    },
+    "dIwFS5": {
+        "message": "Pilih imej",
+        "description": "Form field label"
+    },
+    "ekIjqh": {
+        "message": "Berikan kebenaran untuk mencapai semua laman sesawang"
+    },
+    "ekW/+6": {
+        "message": "Tidak mampu sambung ke Internet"
+    },
+    "fWK68w": {
+        "message": "Fon",
+        "description": "Theme settings: form field label"
+    },
+    "fz43UJ": {
+        "message": "Derma",
+        "description": "Renewed Tab donation link"
+    },
+    "gEYo49": {
+        "message": "Kedudukan",
+        "description": "Backgroud settings: form field label"
+    },
+    "gSjZfg": {
+        "message": "Pautan",
+        "description": "Links Widget"
+    },
+    "h/ftND": {
+        "message": "Pilih fail"
+    },
+    "hktZIl": {
+        "message": "Menunjukkan masa"
+    },
+    "iFxzUm": {
+        "message": "Suka",
+        "description": "Background credits vote"
+    },
+    "iH2AHA": {
+        "message": "<a>Sumber terbuka</a>, dilesenkan di bawah GPLv3+."
+    },
+    "irdBm2": {
+        "message": "Tema",
+        "description": "Settings tab"
+    },
+    "jSHZmX": {
+        "message": "Jejaki item senarai tugasan",
+        "description": "Todo List widget: description"
+    },
+    "kAEQyV": {
+        "message": "OK"
+    },
+    "ktmuOE": {
+        "message": "Biarkan kosong untuk menggunakan tajuk suapan",
+        "description": "Feed widget: form field hint (Title)"
+    },
+    "kueLs9": {
+        "message": "Pautan",
+        "description": "Links widget: form field label"
+    },
+    "l8+Uwz": {
+        "message": "Tiada apa untuk diedit.",
+        "description": "Form has no fields"
+    },
+    "lUdRdE": {
+        "message": "Ralat: {msg}"
+    },
+    "lkJAu6": {
+        "message": "Unsplash",
+        "description": "Unsplash background mode"
+    },
+    "lwUV0r": {
+        "message": "Anda boleh tukar matlamat dengan klik padanya di widget",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "nGSwtl": {
+        "message": "Cari",
+        "description": "Search widget: searchbox placeholder text, when search engine name is unknown"
+    },
+    "o2uuHu": {
+        "message": "Jam 12 jam"
+    },
+    "oDog89": {
+        "message": "Kawasan teks boleh sunting untuk nota",
+        "description": "Notes widget description"
+    },
+    "oJnbwn": {
+        "message": "nama",
+        "description": "Greeting widget: name prompt"
+    },
+    "KyDwm3": {
+        "message": "Tunjukkan tapak teratas",
+        "description": "Top Sites widget: description"
+    },
+    "ofl4Ui": {
+        "message": "Cari",
+        "description": "Location form field: search"
+    },
+    "or/+Da": {
+        "message": "Penggayaan",
+        "description": "Subheading for per-widget styling properties"
+    },
+    "p8GKKf": {
+        "message": "Tapak Teratas",
+        "description": "Top Sites Widget"
+    },
+    "pHo6u+": {
+        "message": "Tiada imej dijumpai di suapan",
+        "description": "Web Comic widget: no images found error"
+    },
+    "pVrtrA": {
+        "message": "Gunakan imej sendiri",
+        "description": "Backgroud mode description"
+    },
+    "qCsSqt": {
+        "message": "Kegelapan Latar Belakang Panel",
+        "description": "Theme settings: form field label"
+    },
+    "qYVXqA": {
+        "message": "Pilihan {mode}",
+        "description": "Background mode options"
+    },
+    "qoEZRi": {
+        "message": "Himpunan Unsplash",
+        "description": "Backgroud settings: form field label"
+    },
+    "rAuRqW": {
+        "message": "Terjemahan disediakan oleh komuniti."
+    },
+    "rb3Zy8": {
+        "message": "Tapis Rencana",
+        "description": "Feed widget: form field label"
+    },
+    "sPl3nI": {
+        "message": "Tajuk",
+        "description": "Form field label"
+    },
+    "sYvWWw": {
+        "message": "Pilihan, URL ke imej (digalakkan 18px)",
+        "description": "Links widget, form field hint (Icon)"
+    },
+    "translation_credits": {
+        "message": "Terjemahan bahasa Melayu oleh Yaya MNH48.",
+        "description": "Credit the translators: LANGUAGE translation by YOUR NAME"
+    },
+    "tyq8NB": {
+        "message": "Cuaca",
+        "description": "Weather Widget"
+    },
+    "uRYRJh": {
+        "message": "Edit {type}"
+    },
+    "ubO4zt": {
+        "message": "Komik Sesawang",
+        "description": "Web Comic Widget"
+    },
+    "wogY8a": {
+        "message": "Cipta Widget"
+    },
+    "wr0l0L": {
+        "message": "Sebuah imej daripada URL",
+        "description": "Backgroud mode description"
+    },
+    "x59fh0": {
+        "message": "Pelancaran Angkasa",
+        "description": "Space Flights Widget"
+    },
+    "xtOPHp": {
+        "message": "URL Pautan",
+        "description": "Form field label"
+    },
+    "xtl3ls": {
+        "message": "Dayakan ikon tersuai",
+        "description": "Links widget: form field label"
+    },
+    "xvXMaZ": {
+        "message": "Menyapa anda",
+        "description": "Greeting widget description"
+    },
+    "y1Z3or": {
+        "message": "Bahasa"
+    },
+    "y8o0oA": {
+        "message": "Cuaca semasa dan ramalan",
+        "description": "Weather widget description"
+    },
+    "yfgoZf": {
+        "message": "Sembang Discord / Matrix"
+    },
+    "ykNa5O": {
+        "message": "Terima kasih Font-Awesome untuk ikon, React untuk UI, dan WebPack untuk binaan."
+    },
+    "z7UTSa": {
+        "message": "Perihal Renewed Tab"
+    },
+    "zfsplE": {
+        "message": "Jangan tunjukkan lagi",
+        "description": "Background credits vote"
+    },
+    "zsdRww": {
+        "message": "Digunakan untuk butang dan pautan utama",
+        "description": "Theme settings: form field hint (Primary Color)"
+    },
+    "wEQDC6": {
+        "message": "Edit"
+    },
+    "wwQ6Va": {
+        "message": "Pilih Lokasi",
+        "description": "Location field"
+    },
+    "KsX2fE": {
+        "message": "<b>{name}</b> di {latitude}, {longitude}"
+    },
+    "2/2yg+": {
+        "message": "Tambah"
+    },
+    "adRrk3": {
+        "message": "Tetapkan semula segalanya",
+        "description": "Import / export settings, reset"
+    },
+    "ziyAdj": {
+        "message": "Import",
+        "description": "Import / export settings, import"
+    },
+    "olBVPS": {
+        "message": "Eksport",
+        "description": "Import / export settings, export"
+    },
+    "a0L2KE": {
+        "message": "Cuba sertakan huruf awal atau nama penuh negara."
+    },
+    "VxE3S8": {
+        "message": "Ini akan hantar URL yang anda cadangkan secara automatik kepada pembangun Renewed Tab. Mereka akan putuskan sama ada ia akan ditambah sebagai cadangan untuk semua pengguna atau tidak.",
+        "description": "Host URL field: help text for suggest URL button"
+    },
+    "6MDM6D": {
+        "message": "Petikan",
+        "description": "Quotes Widget"
+    },
+    "KhM0zv": {
+        "message": "Petikan diambil daripada sumber luaran, dan tidak diperiksa oleh Renewed Tab.",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "PYJFvz": {
+        "message": "Kategori",
+        "description": "Form field label, list of categories. Used by Quotes widget"
+    },
+    "GcxpZV": {
+        "message": "Gaya tarikh",
+        "description": "Clock widget: date style form field label"
+    },
+    "IqLwUL": {
+        "message": "Penjarakan Grid",
+        "description": "Widget grid: form label for grid spacing"
+    },
+    "JzanJ8": {
+        "message": "Lajur Grid",
+        "description": "Widget grid: form label for grid columns"
+    },
+    "vVnypL": {
+        "message": "Menunjukkan petikan secara rawak, dengan kategori",
+        "description": "Quotes Widget description"
+    },
+    "xR87uK": {
+        "message": "Penjarakan di antara widget-widget, dalam unit piksel.",
+        "description": "Widget grid: form hint for grid spacing"
+    },
+    "Dk7Khi": {
+        "message": "Fahrenheit",
+        "description": "Weather widget: Fahrenheit unit"
+    },
+    "Mihrhf": {
+        "message": "Tiada",
+        "description": "Clock widget: date style type, not shown"
+    },
+    "nnaWVi": {
+        "message": "Celsius",
+        "description": "Weather widget: Celsius unit"
+    },
+    "5mVcg9": {
+        "message": "CSS Tersuai",
+        "description": "Theme settings: form field label"
+    },
+    "JihbEV": {
+        "message": "Pendokumenan CSS",
+        "description": "Theme settings: link to CSS docs"
+    },
+    "QBZZBG": {
+        "message": "Ambil perhatian: sifat ini dalam uji kaji dan pemilih CSS mungkin putus dalam terbitan masa hadapan.",
+        "description": "Theme settings: form field hint (Custom CSS)"
+    },
+    "ZeZlbR": {
+        "message": "Menetapkan kelegapan bagi warna untuk butang berwarna sedikit",
+        "description": "Button widget: form field hint (Opacity)"
+    },
+    "I48yxw": {
+        "message": "Privasi",
+        "description": "General settings: privacy"
+    },
+    "QcExtH": {
+        "message": "Polisi Privasi",
+        "description": "General settings: privacy policy button"
+    },
+    "as6rZ1": {
+        "message": "Dayakan pelaporan runtuhan (menggunakan Sentry)",
+        "description": "General settings: enable sentry"
+    },
+    "yvWbz6": {
+        "message": "Seterusnya",
+        "description": "Onboarding page: next button"
+    },
+    "CNpJaZ": {
+        "message": "Tumpu",
+        "description": "Preset: focus"
+    },
+    "BJYZgx": {
+        "message": "Guna pemegang pindah (<move></move>) dan pemegang saiz (<resize></resize>)."
+    },
+    "uzT59w": {
+        "message": "Grid",
+        "description": "Preset: Grid"
+    },
+    "MiIvsP": {
+        "message": "Anda boleh tambah, pindah, tukar saiz, dan tetapkan widget atas grid menggunakan kawalan intuitif."
+    },
+    "RCe+DS": {
+        "message": "Widget Tarik dan Lepas"
+    },
+    "YuNOET": {
+        "message": "HTML",
+        "description": "HTML widget: form field label"
+    },
+    "mv9TrH": {
+        "message": "HTML",
+        "description": "HTML Widget"
+    },
+    "pbEMNj": {
+        "message": "Sebelumnya",
+        "description": "Onboarding page: previous button"
+    },
+    "ywSKRt": {
+        "message": "HTML Tersuai",
+        "description": "HTML widget description"
+    },
+    "gAZqVl": {
+        "message": "Anda boleh tambah (<add></add>) atau buang (<remove></remove>) widget selepas ini, atau tukar tetapan (<cog></cog>) yang diinginkan.",
+        "description": "Onboarding: preset hint"
+    },
+    "L6nTur": {
+        "message": "Pilih Titik Permulaan",
+        "description": "Onboarding: presets title"
+    },
+    "yUJ5MA": {
+        "message": "Matlamat",
+        "description": "Preset: goals"
+    },
+    "0l+aD2": {
+        "message": "Petikan ilham dan matlamat harian",
+        "description": "Preset: focus description"
+    },
+    "vlumg9": {
+        "message": "Gelintar widget...",
+        "description": "Create Widgets modal: search widgets placeholder"
+    },
+    "7wOM6+": {
+        "message": "Kemajuan Tahun",
+        "description": "Year Progress widget"
+    },
+    "Cq4JWx": {
+        "message": "Berita, cuaca, dan banyak lagi",
+        "description": "Preset: grid description"
+    },
+    "b2Rs2F": {
+        "message": "Tukar kecerahan imej yang lebih terang",
+        "description": "Backgroud settings: form field label (Brightness: Light)"
+    },
+    "gHzZEt": {
+        "message": "Hanya ada jam dan bar carian",
+        "description": "Preset: focus description"
+    },
+    "hUIQ7h": {
+        "message": "Kecerahan",
+        "description": "Backgroud settings: form field label"
+    },
+    "ku7Ot7": {
+        "message": "Kecerahan: Terang",
+        "description": "Backgroud settings: form field label"
+    },
+    "mSg5KK": {
+        "message": "Kecerahan: Gelap",
+        "description": "Backgroud settings: form field label"
+    },
+    "q4caWd": {
+        "message": "Jejari kekaburan",
+        "description": "Backgroud settings: form field label"
+    },
+    "qEk9AJ": {
+        "message": "Tukar kecerahan imej yang lebih gelap",
+        "description": "Backgroud settings: form field label (Brightness: Dark)"
+    },
+    "zEj0dg": {
+        "message": "Tunjukkan kemajuan dalam tahun sebagai bar kemajuan",
+        "description": "Age widget description"
+    },
+    "Ddd3ZY": {
+        "message": "Kepada",
+        "description": "Currencies widget: form field label"
+    },
+    "aXrD3p": {
+        "message": "Mata Wang",
+        "description": "Currencies widget"
+    },
+    "oBl48o": {
+        "message": "Adakah anda pasti anda ingin tetapkan semula kesemua data?",
+        "description": "Import / export settings, reset confirmation"
+    },
+    "pG7wIz": {
+        "message": "Tunjukkan kadar pertukaran, menyokong mata wang forex dan kripto (BitCoin dll)",
+        "description": "Currencies widget description"
+    },
+    "Abtyj/": {
+        "message": "Imej lebih besar daripada 2MB ({dataSizeMB}MB). Untuk masa pemuatan lebih bagus, anda patut gunakan imej lebih kecil.",
+        "description": "Image upload error message"
+    },
+    "IbCXY9": {
+        "message": "Piawai ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "OPzczE": {
+        "message": "Singkat ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "QV6YlB": {
+        "message": "Kadar Pertukaran",
+        "description": "Currencies widget: form field label"
+    },
+    "kF06lD": {
+        "message": "Panjang ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "4dzBeG": {
+        "message": "Daripada",
+        "description": "Currencies widget: form field label"
+    },
+    "O8mt7g": {
+        "message": "Nombor ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "nF7bWj": {
+        "message": "ISO ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "yY7Rve": {
+        "message": "Sembunyi",
+        "description": "Feed widget: filter show checkbox label"
+    },
+    "0PsF7Z": {
+        "message": "Adakah anda pasti anda ingin buang widget ini secara kekal?",
+        "description": "Delete widget modal message"
+    },
+    "3vjl5Q": {
+        "message": "Tunjuk / Sembunyi",
+        "description": "Feed widget filter allow label"
+    },
+    "TIEfOV": {
+        "message": "Rencana dipaparkan sekiranya sepadan dengan paling kurang satu tapisan 'Tunjuk' (jika ada), dan tiada tapisan 'Sembunyi'.",
+        "description": "Feed widget: form field hint (Filters)"
+    },
+    "zo4ZQa": {
+        "message": "Tunjuk",
+        "description": "Feed widget: filter allow checkbox label"
+    },
+    "4cMia7": {
+        "message": "Tunjuk gambar baharu",
+        "description": "Backgroud settings: form field label (how often background images change)"
+    },
+    "Ay1sfO": {
+        "message": "Kawal berapa banyak imej paling terbaru untuk digunakan dalam pilihan secara rawak. Menetapkan kepada 1 akan sentiasa memilih imej paling terbaru sahaja",
+        "description": "Feed background mode: form field hint (Limit images)"
+    },
+    "E4nLwR": {
+        "message": "Setiap hari",
+        "description": "Background expiry dropdown"
+    },
+    "PBMGxw": {
+        "message": "Hadkan imej",
+        "description": "Feed background mode: form field label"
+    },
+    "XV4mnl": {
+        "message": "Bergantung kepada tetapan anda, gambar yang sama mungkin dipilih",
+        "description": "Background settings: form field hint (Show a new photo)"
+    },
+    "YQhLKn": {
+        "message": "Setiap jam",
+        "description": "Background expiry dropdown"
+    },
+    "d7dHsn": {
+        "message": "Setiap 15 minit",
+        "description": "Background expiry dropdown"
+    },
+    "+TYXj6": {
+        "message": "Hari ini, {time}",
+        "description": "SpaceFlights widget: today and time"
+    },
+    "2vJWTd": {
+        "message": "Gambar",
+        "description": "Background credits title placeholder"
+    },
+    "B0kbsm": {
+        "message": "Suapan",
+        "description": "Unsplash background mode"
+    },
+    "HPLtg4": {
+        "message": "Mata wang tidak diketahui ''{currency}''",
+        "description": "Currencies widget: error"
+    },
+    "RhyKzC": {
+        "message": "Diberikan",
+        "description": "Curated background mode"
+    },
+    "+sI+Oh": {
+        "message": "Tunjuk ramalan sejam sekali",
+        "description": "Weather widget: form field label"
+    },
+    "/4k9ry": {
+        "message": "UV <b>Sangat Tinggi</b>",
+        "description": "Very High UV risk"
+    },
+    "BiPNnl": {
+        "message": "Unit Kelajuan Angin",
+        "description": "Weather widget: form field label"
+    },
+    "HEvlTB": {
+        "message": "Pilihan Paparan",
+        "description": "Weather widget: display subform title"
+    },
+    "JN/uvd": {
+        "message": "UV <b>Sederhana</b>",
+        "description": "Moderate UV risk"
+    },
+    "Upkn1Q": {
+        "message": "UV <b>Tinggi</b>",
+        "description": "High UV risk"
+    },
+    "W3zKGr": {
+        "message": "Kilometer per jam (km/j)",
+        "description": "Weather widget: Speed unit"
+    },
+    "abwneZ": {
+        "message": "Meter per saat (m/s)",
+        "description": "Weather widget: Speed unit"
+    },
+    "ckvzIb": {
+        "message": "UV <b>Rendah</b>",
+        "description": "Low UV risk"
+    },
+    "hCBQrY": {
+        "message": "Rasa macam <b>{temp}°</b>"
+    },
+    "mL3MOs": {
+        "message": "Batu sejam (bsj)",
+        "description": "Weather widget: Speed unit"
+    },
+    "mw6Uh+": {
+        "message": "Tunjuk ramalan harian",
+        "description": "Weather widget: form field label"
+    },
+    "pqIuCa": {
+        "message": "Tunjuk cuaca semasa",
+        "description": "Weather widget: form field label"
+    },
+    "zaQRTm": {
+        "message": "UV <b>Melampau</b>",
+        "description": "Extreme UV risk"
+    },
+    "Go7At+": {
+        "message": "SAB",
+        "description": "Short weekday name (Saturday)"
+    },
+    "Vckd1G": {
+        "message": "ISN",
+        "description": "Short weekday name (Monday)"
+    },
+    "YS3jnS": {
+        "message": "JUM",
+        "description": "Short weekday name (Friday)"
+    },
+    "eXB4qM": {
+        "message": "RAB",
+        "description": "Short weekday name (Wednesday)"
+    },
+    "frEJEM": {
+        "message": "KHA",
+        "description": "Short weekday name (Thursday)"
+    },
+    "qzlLb3": {
+        "message": "AHA",
+        "description": "Short weekday name (Sunday)"
+    },
+    "uv1bYR": {
+        "message": "SEL",
+        "description": "Short weekday name (Tuesday)"
+    },
+    "2AUlDo": {
+        "message": "Selamat malam, {name}",
+        "description": "Greeting widget: greeting, from 9pm to midnight"
+    },
+    "2O5Rq1": {
+        "message": "Selamat petang, {name}",
+        "description": "Greeting widget: greeting, from 4pm to 9pm"
+    },
+    "FqCn+F": {
+        "message": "Selamat pagi, {name}",
+        "description": "Greeting widget: greeting, from midnight to noon"
+    },
+    "M0PwXU": {
+        "message": "Kelajuan Angin ({unit})",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "oGS5TE": {
+        "message": "Selamat tengah hari, {name}",
+        "description": "Greeting widget: greeting, from noon to 4pm"
+    },
+    "v9UIPJ": {
+        "message": "Matahari terbit - Matahari terbenam",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "S6nfAm": {
+        "message": "Kelembapan (%)",
+        "description": "Weather widget: humidity tooltip"
+    },
+    "yT43pK": {
+        "message": "Gunakan ikon daripada laman sesawang (favicon)",
+        "description": "Form field label"
+    },
+    "F1A/8i": {
+        "message": "Sumber",
+        "description": "Feed widget: form field label"
+    },
+    "M6lR5V": {
+        "message": "Jumlah lajur dalam grid widget. Anda boleh guna sehingga {max} lajur dalam lebar tetingkap semasa ({res}px).",
+        "description": "Widget grid: form hint for grid columns"
+    },
+    "btOI+Z": {
+        "message": "Tab Baharu"
+    },
+    "lY73np": {
+        "message": "Tunjukkan latar belakang panel",
+        "description": "Widget styling, checkbox"
+    },
+    "oRui+E": {
+        "message": "Anda menggemari Renewed Tab? Apa kata anda derma untuk bantu menanggung kos operasi dan menyokong pembangunannya."
+    },
+    "Ack5ID": {
+        "message": "Tiada hasil",
+        "description": "A search has returned no results here (note: there may be multiple places being searched)"
+    },
+    "3UG6ds": {
+        "message": "Gelintar widget atau cari atas sesawang menggunakan enjin carian kegemaran anda",
+        "description": "Search widget description"
+    },
+    "8HmiSe": {
+        "message": "Sila nyatakan sumber",
+        "description": "Feed widget: no sources error message"
+    },
+    "KdIFGg": {
+        "message": "URL carian tiada '{query}' yang wajib disertakan. Cth. https://google.com/search/?q='{query}'",
+        "description": "Search widget: error, missing query variable"
+    },
+    "hWimZf": {
+        "message": "Dayakan gelintaran widget",
+        "description": "Search widget: form field label, enable filtering widgets"
+    },
+    "n0cZ3b": {
+        "message": "Dikuasakan oleh {host}.",
+        "description": "Credit to a website"
+    },
+    "o9vGxx": {
+        "message": "Buka pautan dalam tab baharu",
+        "description": "Form field label"
+    },
+    "q6/aVX": {
+        "message": "Anda boleh tapis widget ini menggunakan widget Gelintar.",
+        "description": "Edit hint shown on searchable widgets"
+    },
+    "sIC2UV": {
+        "message": "Tunjuk teks",
+        "description": "Widget styling, checkbox for showing text on eg: Links"
+    },
+    "nHw5cV": {
+        "message": "Klik item untuk editnya.",
+        "description": "Todo List widget: edit modal hint"
+    },
+    "XYIyWM": {
+        "message": "Anda patut tingkatkan \"Lajur Grid\" menjadi sekurang-kurangnya {cols} untuk kegunaan ruang optimum.",
+        "description": "Widget grid: form label 2 for grid full width"
+    },
+    "x7WADS": {
+        "message": "Grid Halaman Penuh",
+        "description": "Widget grid: form label for grid full width"
+    },
+    "/Mpu8A": {
+        "message": "Regangkan grid untuk meliputi keseluruhan halaman.",
+        "description": "Widget grid: form label 1 for grid full width"
+    },
+    "gQAsym": {
+        "message": "Ambil perhatian bahawa widget lain tidak akan dipindahkan apabila ditarik.",
+        "description": "Widget grid: form label 3 for grid full width"
+    },
+    "+PNw8j": {
+        "message": "Walaupun jika anda sembunyikan sesetengah maklumat, selalunya anda masih boleh melihatnya dengan melalukan tetikus di atas paparan hari dan jam",
+        "description": "Weather widget: form field hint (Display Options)"
+    },
+    "AuSjzq": {
+        "message": "Semasa: Tunjuk risiko UV",
+        "description": "Weather widget: form field label"
+    },
+    "BnmONl": {
+        "message": "Semasa: Tunjuk matahari terbit / matahari terbenam",
+        "description": "Weather widget: form field label"
+    },
+    "eKCjBm": {
+        "message": "Kerpasan (%)",
+        "description": "Weather widget: change of precipitation (rain, etc)"
+    },
+    "5640CU": {
+        "message": "Semasa: Tunjuk kerpasan",
+        "description": "Weather widget: form field label"
+    },
+    "B1pyj1": {
+        "message": "Semasa: Tunjuk rasa macam",
+        "description": "Weather widget: form field label"
+    },
+    "HksGis": {
+        "message": "Semasa: Tunjuk angin",
+        "description": "Weather widget: form field label"
+    },
+    "PHwOzi": {
+        "message": "Terima kasih kepada Unsplash, AccuWeather, dan RocketLaunch.Live untuk capaian API mereka."
+    },
+    "R4cyIr": {
+        "message": "Semasa: Tunjuk kelembapan",
+        "description": "Weather widget: form field label"
+    },
+    "C7WJrL": {
+        "message": "Menegak",
+        "description": "Form field option, vertical gradient"
+    },
+    "BfX7n6": {
+        "message": "Nota: Firefox mungkin menunjukkan artifak seperti garisan pada latar belakang cerunan. Ini bukan sesuatu yang kami boleh baiki.",
+        "description": "Gradient background disclaimer on Firefox"
+    },
+    "EpPEVJ": {
+        "message": "Cerunan",
+        "description": "Gradient background mode"
+    },
+    "KjUKUz": {
+        "message": "Cerunan pelbagai warna",
+        "description": "Backgroud mode description"
+    },
+    "O2Mjef": {
+        "message": "Nilai",
+        "description": "Review request, review button"
+    },
+    "SENRqu": {
+        "message": "Bantuan"
+    },
+    "TDaF6J": {
+        "message": "Abai"
+    },
+    "bfWes8": {
+        "message": "Jenis Cerunan",
+        "description": "Form field label"
+    },
+    "exTzGh": {
+        "message": "Melintang",
+        "description": "Form field option, horizontal gradient"
+    },
+    "8xPAKF": {
+        "message": "Dari 0-100%, kedudukan warna dalam cerunan",
+        "description": "Form field hint (Stop)"
+    },
+    "ATbgo4": {
+        "message": "Jejarian",
+        "description": "Form field option, radial gradient"
+    },
+    "B3NCWb": {
+        "message": "Warna",
+        "description": "Form field label"
+    },
+    "lQIN1l": {
+        "message": "Adakah anda menikmati Renewed Tab? Berikan kami penilaian!"
+    },
+    "n+w6I2": {
+        "message": "Berhenti",
+        "description": "Form field label. Gradient stop (%)"
+    },
+    "2j5LN5": {
+        "message": "Cadangkan URL untuk ditambah ke cadangan lalai",
+        "description": "Host URL field: button for users to suggest new URLs for RSS/JSONFeed/Atom feeds"
+    },
+    "Lnvfz8": {
+        "message": "Gagal untuk memuatkan {source}: {error}",
+        "description": "Feed error message"
+    },
+    "NjoFru": {
+        "message": "Imej rawak daripada suapan Atom, JSONFeed, atau RSS",
+        "description": "Backgroud mode description"
+    },
+    "/aA+Xf": {
+        "message": "Tunjuk imej",
+        "description": "Feed widget: form field label"
+    },
+    "+g7L/A": {
+        "message": "Tunjukkan suapan Atom, JSONFeed, dan RSS - berguna untuk mengikuti berita, laman sesawang, dan blog",
+        "description": "Feed widget description"
+    },
+    "/Mx09O": {
+        "message": "Dalam uji kaji. Ini tidak berfungsi dengan semua sumber suapan, kerana ketiadaan maklumat imej. Imej juga boleh jadi besar, dan mengambil masa untuk dimuatkan.",
+        "description": "Feed widget: form field hint (Show Images)"
+    },
+    "5mfAB9": {
+        "message": "URL ke suapan Atom, JSONFeed, atau RSS",
+        "description": "Form field hint (Feed URL)"
+    },
+    "c7zm0j": {
+        "message": "Gagal memuatkan suapan. Pastikan ia suapan jenis RSS, JSONFeed, atau Atom."
+    },
+    "h00yCR": {
+        "message": "Tunjuk imej terbaru daripada suapan Atom, JSONFeed, atau RSS - berguna untuk Komik Sesawang.",
+        "description": "Web Comic widget description"
+    },
+    "zPAzlS": {
+        "message": "Gabung pelbagai sumber ke dalam tab tunggal",
+        "description": "Feed widget: form field label"
+    },
+    "zXtUcf": {
+        "message": "Jangan risau, anda boleh membuka kunci pada waktu kemudian"
+    },
+    "2s4stS": {
+        "message": "Selamat Datang ke <a>Renewed Tab</a>",
+        "description": "Onboarding modal: title"
+    },
+    "BmzsQb": {
+        "message": "Pautan, dengan sokongan pengepala dan ikon (dail laju)",
+        "description": "Links widget description"
+    },
+    "Oa5RYo": {
+        "message": "<b>Widget juga ada tetapan</b>: lalukan tetikus atas widget dan klik pada pensel untuk menyesuaikannya.",
+        "description": "General settings: help message"
+    },
+    "appDescription": {
+        "message": "Halaman Tab Baharu yang boleh disesuaikan, dengan widget dan latar yang permai",
+        "description": "App description"
+    },
+    "appName": {
+        "message": "Hüma Başlangıç",
+        "description": "The name of the app"
+    },
+    "5MMUNJ": {
+        "message": "Fungsi ini <b>dalam uji kaji dan mungkin lebih susah untuk digunakan</b>.",
+        "description": "Widget grid: form label 4 for grid full width"
+    },
+    "CN0kVN": {
+        "message": "Grid Widget",
+        "description": "Settings tab"
+    },
+    "6wEkCM": {
+        "message": "Pilihan lainnya, anda boleh gunakan widget Tanda Buku untuk kawalan lebih halus.",
+        "description": "General settings: bookmarks bar"
+    },
+    "Ekvvsi": {
+        "message": "Bar Tanda Buku",
+        "description": "Chrome-only, a bar for bookmarks at the top"
+    },
+    "EscvnU": {
+        "message": "Ikon",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "GpfSpy": {
+        "message": "Tunjuk bar tanda buku",
+        "description": "General settings: bookmarks bar"
+    },
+    "IKpSw0": {
+        "message": "Melintang",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "R1jLoC": {
+        "message": "Menegak",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "RVGNBh": {
+        "message": "Apabila anda selesai, klik <button></button> untuk jadikan widget sebagai baca sahaja."
+    },
+    "dOlhtQ": {
+        "message": "Anda boleh tunjukkan bar tanda buku di halaman Tab Baharu sahaja dengan Mengklik-kanan di sebelah bar alamat > Bar alatan Tandabuku > Hanya Tunjuk dalam Tab Baru. <a>Lihat lebih lanjut</a>",
+        "description": "General settings: Help for Firefox bookmarks bar"
+    },
+    "gS3mti": {
+        "message": "Gaya kotak senarai",
+        "description": "Form field label"
+    },
+    "gXcVyS": {
+        "message": "Selesai Edit",
+        "description": "Edit bar button to make the grid readonly"
+    },
+    "j0VHNa": {
+        "message": "Berikan kebenaran untuk mencapai tanda buku dan mendapatkan ikon dari laman sesawang"
+    },
+    "r8bU6m": {
+        "message": "Tunjuk bar tanda buku di bahagian teratas halaman.",
+        "description": "General settings: bookmarks bar"
+    },
+    "sFyAdH": {
+        "message": "Pilihan lainnya: <import></import>"
+    },
+    "sX3mXR": {
+        "message": "Sembunyi",
+        "description": "Hide"
+    },
+    "tSMpM0": {
+        "message": "Berikan kebenaran untuk mencapai tapak teratas dan mendapatkan ikon dari laman sesawang",
+        "description": "Top Sites widget: permission request"
+    },
+    "20tqYI": {
+        "message": "URL ke suatu fail iCal (.ics) untuk suatu kalendar",
+        "description": "CalendarSchedule widget: form field hint (Calendar URL)"
+    },
+    "B4LnaC": {
+        "message": "Tunjuk peristiwa mendatang daripada suatu URL iCal (.ics) (Seperti Google Calendar)",
+        "description": "CalendarSchedule widget: description"
+    },
+    "MdUPbJ": {
+        "message": "Ahad, Isnin, Selasa, Rabu, Khamis, Jumaat, Sabtu",
+        "description": "Days of the week, separated by commas"
+    },
+    "7zYGs9": {
+        "message": "Jadual Kalendar",
+        "description": "CalendarSchedule Widget"
+    },
+    "MtrTNy": {
+        "message": "Esok"
+    },
+    "grbGxs": {
+        "message": "Tiada peristiwa",
+        "description": "CalendarSchedule: no events"
+    },
+    "nlnYxI": {
+        "message": "Jumlah hari maksimum",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "oPO8GY": {
+        "message": "URL kalendar tiada isi. Edit widget ini untuk menambahnya"
+    },
+    "qfkgCx": {
+        "message": "Berapa jauh ke masa hadapan untuk mencari peristiwa. Tetapkan kepada 1 untuk tunjuk peristiwa hari ini sahaja, 2 untuk hari ini dan esok, dll.",
+        "description": "CalendarSchedule widget: form field hint (max number of days)"
+    },
+    "wETxDh": {
+        "message": "Kalendar",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "zWgbGg": {
+        "message": "Hari Ini"
+    },
+    "pWdLkT": {
+        "message": "Sila baca <a>tutorial</a>. Anda boleh guna sebarang kalendar awan yang menyokong iCal, termasuk Google Calendar dan Outlook.",
+        "description": "CalendarSchedule widget: edit hint"
+    },
+    "QkI7Lb": {
+        "message": "Zon waktu pelayar ({browserTimeZone})",
+        "description": "An option when selecting a time zone"
+    },
+    "jGWq1h": {
+        "message": "Zon Waktu"
+    },
+    "DVGnNH": {
+        "message": "Anda boleh melalukan tetikus di atas penghargaan di sebelah bawah kiri untuk menyukai atau melangkau imej latar belakang."
+    },
+    "ilIuh2": {
+        "message": "Anda rasa ini berguna? Apa kata anda <a>menderma</a> untuk menanggung kos API cuaca, dan menyokong pembangunan Renewed Tab masa hadapan.",
+        "description": "Weather widget: asking for donations"
+    }
+}

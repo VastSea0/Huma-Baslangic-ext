@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Hüma Başlangıç",
+		"description": "The name of the app"
+	},
+	"appDescription": {
+		"message": "一个可自定义的新标签页，拥有丰富的小部件和各种精美的背景图片供您选择",
+		"description": "App description"
+	}
+}

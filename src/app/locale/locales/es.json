@@ -1,0 +1,1299 @@
+{
+    "languageName": {
+        "message": "Español",
+        "description": "The name of the current language, to be used in the settings dialog"
+    },
+    "/dtDqf": {
+        "message": "Notas",
+        "description": "Notes Widget"
+    },
+    "0hxZWu": {
+        "message": "Icono",
+        "description": "Form field label"
+    },
+    "7OH6mh": {
+        "message": "Imagen",
+        "description": "Image Widget"
+    },
+    "CmRs9p": {
+        "message": "Buscar",
+        "description": "Search Widget"
+    },
+    "G6WG/N": {
+        "message": "Invisible",
+        "description": "Invisible Widget"
+    },
+    "y1Z3or": {
+        "message": "Idioma"
+    },
+    "47FYwb": {
+        "message": "Cancelar"
+    },
+    "nGSwtl": {
+        "message": "Buscar",
+        "description": "Search widget: searchbox placeholder text, when search engine name is unknown"
+    },
+    "ofl4Ui": {
+        "message": "Buscar",
+        "description": "Location form field: search"
+    },
+    "irdBm2": {
+        "message": "Tema",
+        "description": "Settings tab"
+    },
+    "kAEQyV": {
+        "message": "OK"
+    },
+    "fz43UJ": {
+        "message": "Donar",
+        "description": "Renewed Tab donation link"
+    },
+    "sPl3nI": {
+        "message": "Título",
+        "description": "Form field label"
+    },
+    "2/2yg+": {
+        "message": "Añadir"
+    },
+    "+GMx80": {
+        "message": "No se encontraron ubicaciones",
+        "description": "Location form field: error"
+    },
+    "6MDM6D": {
+        "message": "Citas",
+        "description": "Quotes Widget"
+    },
+    "BJYZgx": {
+        "message": "Utilice el controlador de movimiento (<move> </move>) y el controlador de cambio de tamaño (<resize> </resize>)."
+    },
+    "1s5GYl": {
+        "message": "Opacidad",
+        "description": "Form field label"
+    },
+    "+oSH/F": {
+        "message": "Dice tu edad actual con demasiada precisión",
+        "description": "Age widget description"
+    },
+    "Bl74xq": {
+        "message": "Un botón de enlace",
+        "description": "Button widget description"
+    },
+    "3aaibf": {
+        "message": "Agregar Widget"
+    },
+    "GXkv/F": {
+        "message": "Por favor seleccione una ubicación",
+        "description": "Location form field: prompt"
+    },
+    "I48yxw": {
+        "message": "Privacidad",
+        "description": "General settings: privacy"
+    },
+    "2efE5y": {
+        "message": "Saludo",
+        "description": "Greeting Widget"
+    },
+    "3/EBw0": {
+        "message": "Sitio web",
+        "description": "Renewed Tab website"
+    },
+    "K3r6DQ": {
+        "message": "Eliminar"
+    },
+    "8xVVb5": {
+        "message": "Color Primario",
+        "description": "Theme settings: form field label"
+    },
+    "Dk7Khi": {
+        "message": "Fahrenheit",
+        "description": "Weather widget: Fahrenheit unit"
+    },
+    "GcxpZV": {
+        "message": "Estilo de datos",
+        "description": "Clock widget: date style form field label"
+    },
+    "CshCZY": {
+        "message": "Tipo de fondo"
+    },
+    "D3idYv": {
+        "message": "Ajustes"
+    },
+    "ziyAdj": {
+        "message": "Importar",
+        "description": "Import / export settings, import"
+    },
+    "yUJ5MA": {
+        "message": "Metas",
+        "description": "Preset: goals"
+    },
+    "wEQDC6": {
+        "message": "Editar"
+    },
+    "vlumg9": {
+        "message": "Buscar widgets...",
+        "description": "Create Widgets modal: search widgets placeholder"
+    },
+    "tyq8NB": {
+        "message": "Clima",
+        "description": "Weather Widget"
+    },
+    "z7UTSa": {
+        "message": "Sobre Renewed Tab"
+    },
+    "ywSKRt": {
+        "message": "HTML personalizado",
+        "description": "HTML widget description"
+    },
+    "yvWbz6": {
+        "message": "Siguiente",
+        "description": "Onboarding page: next button"
+    },
+    "wwQ6Va": {
+        "message": "Elegir ubicación",
+        "description": "Location field"
+    },
+    "wogY8a": {
+        "message": "Crear widget"
+    },
+    "xvXMaZ": {
+        "message": "Te saluda",
+        "description": "Greeting widget description"
+    },
+    "JvOSvX": {
+        "message": "Fondo",
+        "description": "Settings tab"
+    },
+    "amHvKE": {
+        "message": "Ingrese notas aquí",
+        "description": "Notes widget: prompt"
+    },
+    "y8o0oA": {
+        "message": "Clima actual y pronosticado",
+        "description": "Weather widget description"
+    },
+    "yfgoZf": {
+        "message": "Chats de Discord / Matrix"
+    },
+    "27lljH": {
+        "message": "Tienes <b>{age}</b> años",
+        "description": "Age widget text"
+    },
+    "Lxc1x4": {
+        "message": "Reloj",
+        "description": "Clock Widget"
+    },
+    "Mihrhf": {
+        "message": "Ninguno",
+        "description": "Clock widget: date style type, not shown"
+    },
+    "N/7Stk": {
+        "message": "Creado por <a>rubenwardy</a>."
+    },
+    "O8mt7g": {
+        "message": "Números ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "0l+aD2": {
+        "message": "Metas diarias y citas inspiradoras",
+        "description": "Preset: focus description"
+    },
+    "4dzBeG": {
+        "message": "De",
+        "description": "Currencies widget: form field label"
+    },
+    "5DCxT+": {
+        "message": "Unidad de temperatura",
+        "description": "Weather widget: form field label"
+    },
+    "K8s82y": {
+        "message": "Fecha de nacimiento",
+        "description": "Age widget: form field label"
+    },
+    "KsX2fE": {
+        "message": "<b>{name}</b> en {latitude} por {longitude}"
+    },
+    "Kzo9ZH": {
+        "message": "URL de la imagen",
+        "description": "Form field label"
+    },
+    "OQHLB5": {
+        "message": "Color",
+        "description": "Form field label"
+    },
+    "PM6qZ7": {
+        "message": "Mostrar segundos"
+    },
+    "6pdO6i": {
+        "message": "No se pueden obtener marcadores",
+        "description": "Bookmarks widget: error message"
+    },
+    "JihbEV": {
+        "message": "Documentación CSS",
+        "description": "Theme settings: link to CSS docs"
+    },
+    "3Nw7b0": {
+        "message": "Nombre del buscador",
+        "description": "Search widget: form field label"
+    },
+    "SAo61B": {
+        "message": "Marcadores",
+        "description": "Bookmarks Widget"
+    },
+    "SG4UJU": {
+        "message": "Botón",
+        "description": "Button Widget"
+    },
+    "dIwFS5": {
+        "message": "Elige una imagen",
+        "description": "Form field label"
+    },
+    "nnaWVi": {
+        "message": "Celsius",
+        "description": "Weather widget: Celsius unit"
+    },
+    "wr0l0L": {
+        "message": "Una imagen de una URL",
+        "description": "Backgroud mode description"
+    },
+    "3vjl5Q": {
+        "message": "Mostrar / Ocultar",
+        "description": "Feed widget filter allow label"
+    },
+    "5mVcg9": {
+        "message": "CSS personalizado",
+        "description": "Theme settings: form field label"
+    },
+    "7wOM6+": {
+        "message": "Progreso del año",
+        "description": "Year Progress widget"
+    },
+    "9+2gJZ": {
+        "message": "Este widget requiere la versión de extensión del navegador."
+    },
+    "CNpJaZ": {
+        "message": "Concentración",
+        "description": "Preset: focus"
+    },
+    "Cq4JWx": {
+        "message": "Las noticias, el clima y más",
+        "description": "Preset: grid description"
+    },
+    "x59fh0": {
+        "message": "Vuelos espaciales",
+        "description": "Space Flights Widget"
+    },
+    "xtOPHp": {
+        "message": "URL del enlace",
+        "description": "Form field label"
+    },
+    "Ddd3ZY": {
+        "message": "A",
+        "description": "Currencies widget: form field label"
+    },
+    "GWRKVT": {
+        "message": "Color de texto",
+        "description": "Form field label"
+    },
+    "IbCXY9": {
+        "message": "Estándar ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "J91edI": {
+        "message": "Importación / Exportación",
+        "description": "Settings tab"
+    },
+    "PYJFvz": {
+        "message": "Categorías",
+        "description": "Form field label, list of categories. Used by Quotes widget"
+    },
+    "QV6YlB": {
+        "message": "Los tipos de cambio",
+        "description": "Currencies widget: form field label"
+    },
+    "QcExtH": {
+        "message": "Política de privacidad",
+        "description": "General settings: privacy policy button"
+    },
+    "RZqASt": {
+        "message": "Un solo color",
+        "description": "Backgroud mode description"
+    },
+    "ShQneX": {
+        "message": "Texto",
+        "description": "Form field label"
+    },
+    "T4VxQN": {
+        "message": "Cargando…"
+    },
+    "GqPEp+": {
+        "message": "Requiere la versión de la extensión del navegador"
+    },
+    "H00a0q": {
+        "message": "Déjelo en blanco para hacer un título",
+        "description": "Links widget, form field hint (Link URL)"
+    },
+    "QqE4JC": {
+        "message": "Falta la URL del feed."
+    },
+    "S3njcM": {
+        "message": "IFrame",
+        "description": "IFrame Widget"
+    },
+    "T/wBPw": {
+        "message": "Quitar {type}"
+    },
+    "TUnCKb": {
+        "message": "Texto",
+        "description": "Text Widget"
+    },
+    "U2Qnh7": {
+        "message": "Imagen",
+        "description": "Image background mode"
+    },
+    "V1EIOe": {
+        "message": "Muestra una página web",
+        "description": "IFrame widget description"
+    },
+    "VjDvbL": {
+        "message": "URL",
+        "description": "Form field label"
+    },
+    "VkW6D1": {
+        "message": "center, top, or bottom",
+        "description": "Backgroud settings: form field hint (Position)"
+    },
+    "WF5DKA": {
+        "message": "Edad",
+        "description": "Age widget"
+    },
+    "WKiXhX": {
+        "message": "Color",
+        "description": "Color background mode"
+    },
+    "X18x9m": {
+        "message": "General",
+        "description": "Settings tab"
+    },
+    "XrQEPN": {
+        "message": "Localización",
+        "description": "Form field label"
+    },
+    "YuNOET": {
+        "message": "HTML",
+        "description": "HTML widget: form field label"
+    },
+    "VPDVTF": {
+        "message": "Nada aquí",
+        "description": "Shown when array table form field has no rows"
+    },
+    "ZZIlU9": {
+        "message": "Objetivo diario",
+        "description": "Daily Goal Widget"
+    },
+    "gEYo49": {
+        "message": "Posición",
+        "description": "Backgroud settings: form field label"
+    },
+    "gSjZfg": {
+        "message": "Enlaces",
+        "description": "Links Widget"
+    },
+    "h/ftND": {
+        "message": "Escoge un archivo"
+    },
+    "hUIQ7h": {
+        "message": "Brillo",
+        "description": "Backgroud settings: form field label"
+    },
+    "hktZIl": {
+        "message": "Muestra el tiempo"
+    },
+    "mv9TrH": {
+        "message": "HTML",
+        "description": "HTML Widget"
+    },
+    "o2uuHu": {
+        "message": "Reloj de 12 horas"
+    },
+    "oJnbwn": {
+        "message": "nombre",
+        "description": "Greeting widget: name prompt"
+    },
+    "olBVPS": {
+        "message": "Exportar",
+        "description": "Import / export settings, export"
+    },
+    "q4caWd": {
+        "message": "Radio de desenfoque",
+        "description": "Backgroud settings: form field label"
+    },
+    "translation_credits": {
+        "message": "Traducción al español por j45 y Dragonop",
+        "description": "Credit the translators: LANGUAGE translation by YOUR NAME"
+    },
+    "yY7Rve": {
+        "message": "Esconder",
+        "description": "Feed widget: filter show checkbox label"
+    },
+    "zfsplE": {
+        "message": "Nunca mostrar otra vez",
+        "description": "Background credits vote"
+    },
+    "AgU+/t": {
+        "message": "Una lista de los próximos lanzamientos espaciales, impulsada por RocketLaunch.Live",
+        "description": "SpaceFlights widget description"
+    },
+    "zo4ZQa": {
+        "message": "Mostrar",
+        "description": "Feed widget: filter allow checkbox label"
+    },
+    "aXrD3p": {
+        "message": "Monedas",
+        "description": "Currencies widget"
+    },
+    "ekW/+6": {
+        "message": "Incapaz de conectarse a Internet"
+    },
+    "adRrk3": {
+        "message": "Reiniciar todo",
+        "description": "Import / export settings, reset"
+    },
+    "cSF2y1": {
+        "message": "Muestra tus marcadores",
+        "description": "Bookmarks widget description"
+    },
+    "dGu5JQ": {
+        "message": "Feed",
+        "description": "Feed Widget"
+    },
+    "fW8Xpd": {
+        "message": "Ubicación necesaria. Haga clic en editar para agregarlo.",
+        "description": "Weather widget: location needed error"
+    },
+    "fWK68w": {
+        "message": "Tipografía",
+        "description": "Theme settings: form field label"
+    },
+    "gHzZEt": {
+        "message": "Solo un reloj y una barra de búsqueda",
+        "description": "Preset: focus description"
+    },
+    "JzanJ8": {
+        "message": "Columnas de Cuadrícula",
+        "description": "Widget grid: form label for grid columns"
+    },
+    "aaxFkJ": {
+        "message": "Agregar una tarea",
+        "description": "Todo List widget: prompt"
+    },
+    "uzT59w": {
+        "message": "Cuadrícula",
+        "description": "Preset: Grid"
+    },
+    "MiIvsP": {
+        "message": "Puede agregar, mover, cambiar el tamaño y configurar widgets en una cuadrícula usando controles intuitivos."
+    },
+    "l8+Uwz": {
+        "message": "Nada para editar.",
+        "description": "Form has no fields"
+    },
+    "lUdRdE": {
+        "message": "Error: {msg}"
+    },
+    "IqLwUL": {
+        "message": "Espaciado de la cuadrícula",
+        "description": "Widget grid: form label for grid spacing"
+    },
+    "RCe+DS": {
+        "message": "Arrastrar y soltar widgets"
+    },
+    "XsTD4Q": {
+        "message": "Lista de tareas pendientes",
+        "description": "Todo List Widget"
+    },
+    "X5OoHJ": {
+        "message": "¿Cuál es tu meta para hoy?",
+        "description": "Daily Goal prompt"
+    },
+    "YS5zRT": {
+        "message": "Buscar con {name}",
+        "description": "Search widget: searchbox placeholder text, when search engine name is known"
+    },
+    "Z2/hH0": {
+        "message": "Imagen: {filename}"
+    },
+    "iFxzUm": {
+        "message": "Me gusta",
+        "description": "Background credits vote"
+    },
+    "iH2AHA": {
+        "message": "<a>Código abierto</a>, con licencia GPLv3 +."
+    },
+    "kF06lD": {
+        "message": "Extendido ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "ZUZeuR": {
+        "message": "Mostrar un mensaje",
+        "description": "Text widget description"
+    },
+    "lYJGY5": {
+        "message": "Imagen desde URL",
+        "description": "Image URL background mode"
+    },
+    "lkJAu6": {
+        "message": "Unsplash",
+        "description": "Unsplash background mode"
+    },
+    "mSg5KK": {
+        "message": "Brillo: Oscuro",
+        "description": "Backgroud settings: form field label"
+    },
+    "pHo6u+": {
+        "message": "No se encontraron imágenes en el feed",
+        "description": "Web Comic widget: no images found error"
+    },
+    "ktmuOE": {
+        "message": "Déjelo en blanco para usar el título del feed",
+        "description": "Feed widget: form field hint (Title)"
+    },
+    "ku7Ot7": {
+        "message": "Brillo: Brillante",
+        "description": "Backgroud settings: form field label"
+    },
+    "kueLs9": {
+        "message": "Enlaces",
+        "description": "Links widget: form field label"
+    },
+    "pVrtrA": {
+        "message": "Usa una imagen personalizada",
+        "description": "Backgroud mode description"
+    },
+    "qEk9AJ": {
+        "message": "Cambiar el brillo de las imágenes más oscuras",
+        "description": "Backgroud settings: form field label (Brightness: Dark)"
+    },
+    "qoEZRi": {
+        "message": "Colección Unsplash",
+        "description": "Backgroud settings: form field label"
+    },
+    "rAuRqW": {
+        "message": "Las traducciones son proporcionadas por la comunidad."
+    },
+    "rb3Zy8": {
+        "message": "Filtrar artículos",
+        "description": "Feed widget: form field label"
+    },
+    "uRYRJh": {
+        "message": "Editar {type}"
+    },
+    "0feb3b": {
+        "message": "Opcional, convierte la imagen en un enlace",
+        "description": "Image widget: Form field hint (Link)"
+    },
+    "KyDwm3": {
+        "message": "muestra los sitios web más visitados por usted",
+        "description": "Top Sites widget: description"
+    },
+    "L6nTur": {
+        "message": "Elige un lugar para empezar",
+        "description": "Onboarding: presets title"
+    },
+    "a0L2KE": {
+        "message": "Intente incluir el nombre del país o las iniciales."
+    },
+    "OPzczE": {
+        "message": "Abreviado ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "zsdRww": {
+        "message": "Usado para botones y enlaces primarios",
+        "description": "Theme settings: form field hint (Primary Color)"
+    },
+    "a09vzt": {
+        "message": "Error en la solicitud HTTP, {code} {msg}."
+    },
+    "0PsF7Z": {
+        "message": "¿Estás seguro que quieres eliminar este widget permanentemente?",
+        "description": "Delete widget modal message"
+    },
+    "4syC1B": {
+        "message": "Ayuda y solicitudes"
+    },
+    "3ZfhWo": {
+        "message": "Se necesita permiso para acceder a {host}. Edite este widget para otorgarlo."
+    },
+    "xtl3ls": {
+        "message": "Habilitar iconos personalizados",
+        "description": "Links widget: form field label"
+    },
+    "D0+wcK": {
+        "message": "Muestra una imagen, convirtiéndola opcionalmente en un enlace",
+        "description": "Image widget description"
+    },
+    "TkgCJ9": {
+        "message": "Puede obtener ayuda o solicitar una función utilizando el enlace a continuación."
+    },
+    "bQFsdR": {
+        "message": "Otorga permiso para acceder a {host}"
+    },
+    "nF7bWj": {
+        "message": "ISO ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "oBl48o": {
+        "message": "¿Estás seguro de que quieres borrar todos los datos?",
+        "description": "Import / export settings, reset confirmation"
+    },
+    "p8GKKf": {
+        "message": "Sitios web más visitados",
+        "description": "Top Sites Widget"
+    },
+    "pG7wIz": {
+        "message": "Muestra tasas de cambio, compatible con divisas forex y criptomonedas (BitCoin, etc.)",
+        "description": "Currencies widget description"
+    },
+    "qCsSqt": {
+        "message": "Panel de oscuridad del fondo",
+        "description": "Theme settings: form field label"
+    },
+    "qYVXqA": {
+        "message": "Opciones de {mode}",
+        "description": "Background mode options"
+    },
+    "Abtyj/": {
+        "message": "La imagen es más de 2 MB ({dataSizeMB}MB). Para lograr mejores tiempos de carga, debe usar una imagen más pequeña.",
+        "description": "Image upload error message"
+    },
+    "4cMia7": {
+        "message": "Mostrar una nueva foto",
+        "description": "Backgroud settings: form field label (how often background images change)"
+    },
+    "E4nLwR": {
+        "message": "Todos los dias",
+        "description": "Background expiry dropdown"
+    },
+    "HPLtg4": {
+        "message": "Moneda desconocida ''{currency}''",
+        "description": "Currencies widget: error"
+    },
+    "+TYXj6": {
+        "message": "Hoy, {time}",
+        "description": "SpaceFlights widget: today and time"
+    },
+    "2vJWTd": {
+        "message": "Foto",
+        "description": "Background credits title placeholder"
+    },
+    "B0kbsm": {
+        "message": "Feed",
+        "description": "Unsplash background mode"
+    },
+    "4F+2K3": {
+        "message": "Una imagen aleatoria de una colección Unsplash",
+        "description": "Backgroud mode description"
+    },
+    "d7dHsn": {
+        "message": "Cada 15 minutos",
+        "description": "Background expiry dropdown"
+    },
+    "or/+Da": {
+        "message": "Estilo",
+        "description": "Subheading for per-widget styling properties"
+    },
+    "+sI+Oh": {
+        "message": "Mostrar pronóstico por hora",
+        "description": "Weather widget: form field label"
+    },
+    "/4k9ry": {
+        "message": "UV <b>Muy alto</b>",
+        "description": "Very High UV risk"
+    },
+    "JN/uvd": {
+        "message": "UV <b>Moderado</b>",
+        "description": "Moderate UV risk"
+    },
+    "HEvlTB": {
+        "message": "Opciones de pantalla",
+        "description": "Weather widget: display subform title"
+    },
+    "BiPNnl": {
+        "message": "Unidad de velocidad del viento",
+        "description": "Weather widget: form field label"
+    },
+    "Upkn1Q": {
+        "message": "UV <b>Alto</b>",
+        "description": "High UV risk"
+    },
+    "W3zKGr": {
+        "message": "Kilómetros por hora (km/h)",
+        "description": "Weather widget: Speed unit"
+    },
+    "YQhLKn": {
+        "message": "Cada hora",
+        "description": "Background expiry dropdown"
+    },
+    "ckvzIb": {
+        "message": "UV <b>Bajo</b>",
+        "description": "Low UV risk"
+    },
+    "hCBQrY": {
+        "message": "Sensación térmica de <b>{temp} °</b>"
+    },
+    "abwneZ": {
+        "message": "Metros por segundo (m/s)",
+        "description": "Weather widget: Speed unit"
+    },
+    "mL3MOs": {
+        "message": "Millas por hora (mi/h)",
+        "description": "Weather widget: Speed unit"
+    },
+    "mw6Uh+": {
+        "message": "Mostrar pronóstico diario",
+        "description": "Weather widget: form field label"
+    },
+    "pqIuCa": {
+        "message": "Mostrar el tiempo actual",
+        "description": "Weather widget: form field label"
+    },
+    "zaQRTm": {
+        "message": "UV <b>Extremo</b>",
+        "description": "Extreme UV risk"
+    },
+    "3vh5vd": {
+        "message": "No muestra nada, es útil para fines de diseño",
+        "description": "Invisible widget description"
+    },
+    "pbEMNj": {
+        "message": "Anterior",
+        "description": "Onboarding page: previous button"
+    },
+    "PBMGxw": {
+        "message": "Limitar imágenes",
+        "description": "Feed background mode: form field label"
+    },
+    "Q1mwPp": {
+        "message": "Considere la posibilidad de <a>contribuir o agregar su idioma</a>."
+    },
+    "RhyKzC": {
+        "message": "Curado",
+        "description": "Curated background mode"
+    },
+    "WZjKFf": {
+        "message": "Advertencia: esto puede contener datos personales, si se ingresó alguno en la configuración del widget."
+    },
+    "ekIjqh": {
+        "message": "Otorgar permiso para acceder a todos los sitios web"
+    },
+    "ubO4zt": {
+        "message": "Web Comic",
+        "description": "Web Comic Widget"
+    },
+    "vVnypL": {
+        "message": "Muestra una cita aleatoria, con categorías",
+        "description": "Quotes Widget description"
+    },
+    "xR87uK": {
+        "message": "El espacio entre widgets, en píxeles.",
+        "description": "Widget grid: form hint for grid spacing"
+    },
+    "b2Rs2F": {
+        "message": "Cambiar el brillo de las imágenes más claras",
+        "description": "Backgroud settings: form field label (Brightness: Light)"
+    },
+    "qzlLb3": {
+        "message": "Do",
+        "description": "Short weekday name (Sunday)"
+    },
+    "frEJEM": {
+        "message": "Ju",
+        "description": "Short weekday name (Thursday)"
+    },
+    "eXB4qM": {
+        "message": "Mi",
+        "description": "Short weekday name (Wednesday)"
+    },
+    "YS3jnS": {
+        "message": "Vi",
+        "description": "Short weekday name (Friday)"
+    },
+    "Vckd1G": {
+        "message": "Lu",
+        "description": "Short weekday name (Monday)"
+    },
+    "Go7At+": {
+        "message": "Sa",
+        "description": "Short weekday name (Saturday)"
+    },
+    "uv1bYR": {
+        "message": "Ma",
+        "description": "Short weekday name (Tuesday)"
+    },
+    "GSox4d": {
+        "message": "Cualquier nombre de tipografía instalado en su computadora",
+        "description": "Theme settings: form field hint (Font)"
+    },
+    "M0PwXU": {
+        "message": "Velocidad del viento ({unit})",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "OBJta4": {
+        "message": "Puede cambiar el nombre haciendo clic en el widget",
+        "description": "Greeting widget: edit modal hint"
+    },
+    "XV4mnl": {
+        "message": "Dependiendo de su configuración, se puede elegir la misma foto",
+        "description": "Background settings: form field hint (Show a new photo)"
+    },
+    "zEj0dg": {
+        "message": "Muestra el progreso a lo largo del año como una barra de progreso",
+        "description": "Age widget description"
+    },
+    "v9UIPJ": {
+        "message": "Salida del sol - puesta de sol",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "FqCn+F": {
+        "message": "Buenos días, {name}",
+        "description": "Greeting widget: greeting, from midnight to noon"
+    },
+    "QBZZBG": {
+        "message": "Tenga en cuenta: esta es una función experimental y los selectores de CSS pueden fallar en versiones futuras.",
+        "description": "Theme settings: form field hint (Custom CSS)"
+    },
+    "LfHpBk": {
+        "message": "Escala de tipografía",
+        "description": "Theme settings: form field label"
+    },
+    "S6nfAm": {
+        "message": "Humedad (%)",
+        "description": "Weather widget: humidity tooltip"
+    },
+    "ao/AFQ": {
+        "message": "Te recuerda un objetivo diario",
+        "description": "Daily Goal widget description"
+    },
+    "oGS5TE": {
+        "message": "Buenas tardes, {name}",
+        "description": "Greeting widget: greeting, from noon to 4pm"
+    },
+    "8J0Bhj": {
+        "message": "Bienvenido a <a>Renewed Tab</a>: una página de Nueva Pestaña personalizable, con widgets y fondos hermosos."
+    },
+    "gAZqVl": {
+        "message": "Puede agregar (<add></add>) o eliminar (<remove></remove>) widgets más tarde, o cambiar las configuraciones (<cog></cog>) como desee.",
+        "description": "Onboarding: preset hint"
+    },
+    "VxE3S8": {
+        "message": "Esto enviará automáticamente el URL a los desarrolladores de Renewed Tab. Luego, pueden optar por agregarlo a las sugerencias para todos los usuarios.",
+        "description": "Host URL field: help text for suggest URL button"
+    },
+    "ykNa5O": {
+        "message": "Gracias a Font-Awesome por sus íconos, a React por su UI y a WebPack por las compilaciones."
+    },
+    "zKofmb": {
+        "message": "ID de colección. Encontrado en la URL, ejemplo: 42576559",
+        "description": "Backgroud settings: form field hint (Unsplash Collection)"
+    },
+    "oDog89": {
+        "message": "Un área de texto editable para notas",
+        "description": "Notes widget description"
+    },
+    "TIEfOV": {
+        "message": "Se mostrará un artículo si coincide por lo menos con un filtro 'Mostrar' (si lo hay), y no coincide con filtros 'Ocultar'.",
+        "description": "Feed widget: form field hint (Filters)"
+    },
+    "2AUlDo": {
+        "message": "Buenas noches, {name}",
+        "description": "Greeting widget: greeting, from 9pm to midnight"
+    },
+    "2O5Rq1": {
+        "message": "Buenas tardes, {name}",
+        "description": "Greeting widget: greeting, from 4pm to 9pm"
+    },
+    "sYvWWw": {
+        "message": "Opcional, URL a la imagen (se recomiendan 18 píxeles)",
+        "description": "Links widget, form field hint (Icon)"
+    },
+    "Ay1sfO": {
+        "message": "Controla de cuántas de las imágenes más recientes tiene que escoger al azar. Establecer esto en 1 siempre elegirá la última imagen",
+        "description": "Feed background mode: form field hint (Limit images)"
+    },
+    "MN3prI": {
+        "message": "Incluir carpetas como secciones",
+        "description": "Bookmarks widget: form field label"
+    },
+    "Wi0G88": {
+        "message": "Acerca de y Ayuda",
+        "description": "Settings tab"
+    },
+    "YYoBQn": {
+        "message": "Radio de desenfoque del panel",
+        "description": "Theme settings: form field label"
+    },
+    "Z79HMN": {
+        "message": "Fondos seleccionados al azar",
+        "description": "Backgroud mode description"
+    },
+    "as6rZ1": {
+        "message": "Habilitar informes de fallas (usando Sentry)",
+        "description": "General settings: enable sentry"
+    },
+    "cR7nCG": {
+        "message": "Restablecer el tema al defecto"
+    },
+    "lwUV0r": {
+        "message": "Puede cambiar el objetivo haciendo clic en el widget",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "KhM0zv": {
+        "message": "Las citas provienen de fuentes externas y no son revisadas por Renewed Tab.",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "ZeZlbR": {
+        "message": "Establece la opacidad del color teñido del botón",
+        "description": "Button widget: form field hint (Opacity)"
+    },
+    "jSHZmX": {
+        "message": "Seguimiento de elementos de la lista de tareas",
+        "description": "Todo List widget: description"
+    },
+    "4UpnpD": {
+        "message": "Las imágenes se almacenan localmente en su navegador y nunca se suben",
+        "description": "Form field hint (Image)"
+    },
+    "ZRWjTk": {
+        "message": "Utilizar el buscador predeterminado del navegador",
+        "description": "Search widget: form field label"
+    },
+    "yT43pK": {
+        "message": "Utilice iconos de sitios web (favicons)",
+        "description": "Form field label"
+    },
+    "F1A/8i": {
+        "message": "Fuentes",
+        "description": "Feed widget: form field label"
+    },
+    "M6lR5V": {
+        "message": "Número de columnas en la cuadrícula de widgets. Puede colocar {max} columnas en el ancho actual de la ventana ({res}px).",
+        "description": "Widget grid: form hint for grid columns"
+    },
+    "btOI+Z": {
+        "message": "Nueva Pestaña"
+    },
+    "lY73np": {
+        "message": "Mostrar fondo del panel",
+        "description": "Widget styling, checkbox"
+    },
+    "oRui+E": {
+        "message": "¿Disfrutando Renewed Tab? Considere hacer una donación para ayudar a cubrir costos y apoyar su desarrollo."
+    },
+    "KdIFGg": {
+        "message": "Falta '{query}' en la URL de búsqueda. Ej: https://google.com/search/?q='{query}'",
+        "description": "Search widget: error, missing query variable"
+    },
+    "3UG6ds": {
+        "message": "Busque en widgets o en la web usando su motor de búsqueda favorito",
+        "description": "Search widget description"
+    },
+    "8HmiSe": {
+        "message": "Por favor especifique una fuente",
+        "description": "Feed widget: no sources error message"
+    },
+    "Ack5ID": {
+        "message": "Sin resultados",
+        "description": "A search has returned no results here (note: there may be multiple places being searched)"
+    },
+    "hWimZf": {
+        "message": "Activar búsqueda en widgets",
+        "description": "Search widget: form field label, enable filtering widgets"
+    },
+    "n0cZ3b": {
+        "message": "Impulsado por {host}.",
+        "description": "Credit to a website"
+    },
+    "nHw5cV": {
+        "message": "Haga click en los items para editarlos.",
+        "description": "Todo List widget: edit modal hint"
+    },
+    "o9vGxx": {
+        "message": "Abrir enlaces en una nueva pestaña",
+        "description": "Form field label"
+    },
+    "q6/aVX": {
+        "message": "Puede filtrar este widget usando un widget de búsqueda.",
+        "description": "Edit hint shown on searchable widgets"
+    },
+    "sIC2UV": {
+        "message": "Mostrar texto",
+        "description": "Widget styling, checkbox for showing text on eg: Links"
+    },
+    "/Mpu8A": {
+        "message": "Estirar cuadrícula para cubrir toda la página.",
+        "description": "Widget grid: form label 1 for grid full width"
+    },
+    "x7WADS": {
+        "message": "Cuadrícula de Página Completa",
+        "description": "Widget grid: form label for grid full width"
+    },
+    "XYIyWM": {
+        "message": "Debería aumentar las \"Columnas de Cuadrícula\" a al menos {cols} para hacer un mejor uso del espacio.",
+        "description": "Widget grid: form label 2 for grid full width"
+    },
+    "gQAsym": {
+        "message": "Tenga en cuenta que otros widgets no se moverán al arrastrar.",
+        "description": "Widget grid: form label 3 for grid full width"
+    },
+    "+PNw8j": {
+        "message": "Incluso si oculta algo de información, generalmente aún puede verla al mantener el cursor en días y horas",
+        "description": "Weather widget: form field hint (Display Options)"
+    },
+    "5640CU": {
+        "message": "Actual: Mostrar precipitación",
+        "description": "Weather widget: form field label"
+    },
+    "AuSjzq": {
+        "message": "Actual: Mostrar riesgo UV",
+        "description": "Weather widget: form field label"
+    },
+    "B1pyj1": {
+        "message": "Actual: Mostrar sensación térmica",
+        "description": "Weather widget: form field label"
+    },
+    "BnmONl": {
+        "message": "Actual: Mostrar salida / puesta de sol",
+        "description": "Weather widget: form field label"
+    },
+    "HksGis": {
+        "message": "Actual: Mostrar viento",
+        "description": "Weather widget: form field label"
+    },
+    "PHwOzi": {
+        "message": "Gracias a Unsplash, AccuWeather, y RocketLaunch.Live por sus APIs."
+    },
+    "R4cyIr": {
+        "message": "Actual: Mostrar humedad",
+        "description": "Weather widget: form field label"
+    },
+    "eKCjBm": {
+        "message": "Precipitación (%)",
+        "description": "Weather widget: change of precipitation (rain, etc)"
+    },
+    "KjUKUz": {
+        "message": "Un degradado de colores",
+        "description": "Backgroud mode description"
+    },
+    "SENRqu": {
+        "message": "Ayuda"
+    },
+    "TDaF6J": {
+        "message": "Descartar"
+    },
+    "bfWes8": {
+        "message": "Tipo de degradado",
+        "description": "Form field label"
+    },
+    "B3NCWb": {
+        "message": "Colores",
+        "description": "Form field label"
+    },
+    "ATbgo4": {
+        "message": "Radial",
+        "description": "Form field option, radial gradient"
+    },
+    "C7WJrL": {
+        "message": "Vertical",
+        "description": "Form field option, vertical gradient"
+    },
+    "EpPEVJ": {
+        "message": "Degradado",
+        "description": "Gradient background mode"
+    },
+    "O2Mjef": {
+        "message": "Revisar",
+        "description": "Review request, review button"
+    },
+    "exTzGh": {
+        "message": "Horizontal",
+        "description": "Form field option, horizontal gradient"
+    },
+    "2j5LN5": {
+        "message": "Sugerir URL que se agregue a las sugerencias predeterminadas",
+        "description": "Host URL field: button for users to suggest new URLs for RSS/JSONFeed/Atom feeds"
+    },
+    "appName": {
+        "message": "Hüma Başlangıç",
+        "description": "The name of the app"
+    },
+    "appDescription": {
+        "message": "Una página de Nueva Pestaña personalizable, con widgets y fondos hermosos",
+        "description": "App description"
+    },
+    "Ekvvsi": {
+        "message": "Barra de favoritos",
+        "description": "Chrome-only, a bar for bookmarks at the top"
+    },
+    "EscvnU": {
+        "message": "Iconos",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "GpfSpy": {
+        "message": "Mostrar la barra de favoritos",
+        "description": "General settings: bookmarks bar"
+    },
+    "IKpSw0": {
+        "message": "Horizontal",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "R1jLoC": {
+        "message": "Vertical",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "gXcVyS": {
+        "message": "Terminar de editar",
+        "description": "Edit bar button to make the grid readonly"
+    },
+    "n+w6I2": {
+        "message": "Parar",
+        "description": "Form field label. Gradient stop (%)"
+    },
+    "sFyAdH": {
+        "message": "Alternativamente: <import></import>"
+    },
+    "sX3mXR": {
+        "message": "Ocultar",
+        "description": "Hide"
+    },
+    "/aA+Xf": {
+        "message": "Mostrar imágenes",
+        "description": "Feed widget: form field label"
+    },
+    "5mfAB9": {
+        "message": "URL de un feed Atom, JSONFeed o RSS",
+        "description": "Form field hint (Feed URL)"
+    },
+    "h00yCR": {
+        "message": "Muestra las imágenes recientes de un feed Atom, JSONFeed o RSS - útil para WebComics.",
+        "description": "Web Comic widget description"
+    },
+    "2s4stS": {
+        "message": "Bienvenido a <a>Renewed Tab</a>",
+        "description": "Onboarding modal: title"
+    },
+    "c7zm0j": {
+        "message": "Error al cargar el feed. Asegúrese de que es un feed RSS, JSONFeed o Atom."
+    },
+    "Lnvfz8": {
+        "message": "Error al cargar {source}: {error}",
+        "description": "Feed error message"
+    },
+    "Oa5RYo": {
+        "message": "<b>Los widgets también tienen configuraciones</b>: coloque el cursor sobre un widget y haga clic en el lápiz para personalizarlo.",
+        "description": "General settings: help message"
+    },
+    "5MMUNJ": {
+        "message": "Esto es <b>experimental y puede ser más difícil de usar</b>.",
+        "description": "Widget grid: form label 4 for grid full width"
+    },
+    "MdUPbJ": {
+        "message": "Domingo, Lunes, Martes, Miércoles, Jueves, Viernes, Sábado",
+        "description": "Days of the week, separated by commas"
+    },
+    "MtrTNy": {
+        "message": "Mañana"
+    },
+    "zWgbGg": {
+        "message": "Hoy"
+    },
+    "zPAzlS": {
+        "message": "Combinar fuentes en una sola pestaña",
+        "description": "Feed widget: form field label"
+    },
+    "20tqYI": {
+        "message": "URL de un archivo iCal (.ics) para un calendario",
+        "description": "CalendarSchedule widget: form field hint (Calendar URL)"
+    },
+    "nlnYxI": {
+        "message": "Número máximo de días",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "oPO8GY": {
+        "message": "Falta la URL del calendario. Edite este widget para añadirlo"
+    },
+    "qfkgCx": {
+        "message": "Cuánto tiempo en el futuro para buscar eventos. Establezca 1 para mostrar sólo los eventos de hoy, 2 para hoy y mañana, etc.",
+        "description": "CalendarSchedule widget: form field hint (max number of days)"
+    },
+    "6wEkCM": {
+        "message": "También puede utilizar un widget de marcadores para tener un control más preciso.",
+        "description": "General settings: bookmarks bar"
+    },
+    "CN0kVN": {
+        "message": "Cuadrícula de widgets",
+        "description": "Settings tab"
+    },
+    "+g7L/A": {
+        "message": "Muestra feeds Atom, JSONFeed y RSS, útiles para seguir las noticias, los sitios web y los blogs",
+        "description": "Feed widget description"
+    },
+    "r8bU6m": {
+        "message": "Mostrar una barra de marcadores en la parte superior de la página.",
+        "description": "General settings: bookmarks bar"
+    },
+    "8xPAKF": {
+        "message": "De 0 a 100%, posición del color en el gradiente",
+        "description": "Form field hint (Stop)"
+    },
+    "BmzsQb": {
+        "message": "Enlaces, con soporte de encabezados e iconos (marcación rápida)",
+        "description": "Links widget description"
+    },
+    "NjoFru": {
+        "message": "Imagen aleatoria de un feed Atom, JSONFeed o RSS",
+        "description": "Backgroud mode description"
+    },
+    "B4LnaC": {
+        "message": "Mostrar los próximos eventos desde una URL de iCal (.ics) (como Google Calendar)",
+        "description": "CalendarSchedule widget: description"
+    },
+    "wETxDh": {
+        "message": "Calendarios",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "BfX7n6": {
+        "message": "Nota: Firefox puede mostrar artefactos como líneas en los fondos degradados. Esto no es algo que podamos arreglar.",
+        "description": "Gradient background disclaimer on Firefox"
+    },
+    "/Mx09O": {
+        "message": "Experimental. Esto no funciona con todas los feeds, debido a la falta de información de las imágenes. Las imágenes también pueden ser grandes y tardar en cargarse.",
+        "description": "Feed widget: form field hint (Show Images)"
+    },
+    "QkI7Lb": {
+        "message": "Zona horaria del navegador ({browserTimeZone})",
+        "description": "An option when selecting a time zone"
+    },
+    "jGWq1h": {
+        "message": "Zona horaria"
+    },
+    "pWdLkT": {
+        "message": "Por favor, lea <a>el tutorial</a>. Puede usar cualquier calendario en la nube que soporte iCal, incluyendo Google Calendar y Outlook.",
+        "description": "CalendarSchedule widget: edit hint"
+    },
+    "7zYGs9": {
+        "message": "Calendario",
+        "description": "CalendarSchedule Widget"
+    },
+    "grbGxs": {
+        "message": "No hay eventos",
+        "description": "CalendarSchedule: no events"
+    },
+    "j0VHNa": {
+        "message": "Permitir el acceso a los marcadores y la obtención de iconos de los sitios web"
+    },
+    "RVGNBh": {
+        "message": "Quando hayas terminado, haga clic en <button></button> para hacer que los widgets solo se podran leer."
+    },
+    "lQIN1l": {
+        "message": "¿Te está gustando Renewed Tab? ¡Danos un review!"
+    }
+}

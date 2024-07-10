@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Hüma Başlangıç",
+		"description": "The name of the app"
+	},
+	"appDescription": {
+		"message": "Einer frei gestaltbaren „Neuer Tab“ Seite, mit praktischen Widgets und faszinierenden Wallpapers",
+		"description": "App description"
+	}
+}

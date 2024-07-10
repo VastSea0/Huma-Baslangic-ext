@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Hüma Başlangıç",
+		"description": "The name of the app"
+	},
+	"appDescription": {
+		"message": "Une page Nouvel onglet personnalisable avec des widgets et de magnifiques fonds d'écran",
+		"description": "App description"
+	}
+}

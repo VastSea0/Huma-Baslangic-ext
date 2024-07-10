@@ -1,0 +1,287 @@
+:root {
+	--font-family: "Roboto";
+	--font-size: 100%;
+	--base-border-radius: 0.25rem;
+	--panel-border-radius: 0.25rem;
+	--panel-blur: 12px;
+	--panel-opacity: 0.5;
+	--color-primary-dark: #007DB8;
+	--color-primary-dark-highlight: #06aed5;
+	--color-primary-light: #67cee5;
+	--color-primary-light-highlight: #96e7fa;
+	--color-background: rgba(15, 15, 15, 0.95);
+}
+
+/* Roboto regular */
+
+@font-face {
+    font-family: "Roboto";
+    src: url("roboto/Roboto-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Roboto italic */
+
+@font-face {
+    font-family: "Roboto";
+    src: url("roboto/Roboto-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Roboto bold */
+
+@font-face {
+    font-family: "Roboto";
+    src: url("roboto/Roboto-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@import "mixins";
+
+html, body, #app {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	color: #eee;
+	font-family: var(--font-family), "Arial", sans-serif;
+	font-size: var(--font-size);
+	background-color: #111;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	font-size: 64pt;
+	margin: 0;
+}
+
+p {
+	margin: 0 0 1em 0;
+}
+
+a, .link {
+	cursor: pointer;
+	color: var(--color-primary-light);
+	text-decoration: none;
+	transition: filter 0.1s ease-in-out;
+
+	&:not(.btn):hover {
+		color: var(--color-primary-light-highlight);
+		text-decoration: underline;
+	}
+}
+
+.unlocked .credits {
+	bottom: 50px;
+}
+
+.bookmarks-top-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+
+	.panel {
+		margin: 0;
+	}
+}
+
+.credits {
+	font-size: 80%;
+	color: rgba(255, 255, 255, 0.4);
+
+	* {
+		vertical-align: middle;
+	}
+
+	.large {
+		font-size: 140%;
+	}
+
+	a, .link {
+		cursor: pointer;
+		color: rgba(255, 255, 255, 0.65);
+		text-decoration: none;
+
+		&:hover {
+			color: rgba(255, 255, 255, 1) !important;
+			text-decoration: none !important;
+		}
+	}
+
+	position: fixed;
+	bottom: 0px;
+	left: 15px;
+	z-index: 100;
+
+	> a > span {
+		display: block;
+	}
+
+	.line-2 {
+		display: block;
+	}
+
+	.line-1, .line-2 {
+		padding: 0.25rem 0;
+	}
+
+	.line-2, .btn {
+		opacity: 0;
+		transition: opacity 0.1s ease-in-out;
+	}
+
+	.line-1 {
+		margin-bottom: 0.8em;
+
+		&.oneline {
+			max-width: 30vw;
+			@include line_clamp(1);
+		}
+	}
+
+	&:hover, &:focus-within {
+		.line-1.oneline {
+			overflow: auto;
+			max-height: none !important;
+			line-clamp: none !important;
+			-webkit-line-clamp: none !important;
+		}
+
+		.line-2, .btn {
+			visibility: visible;
+			opacity: 1;
+		}
+	}
+}
+
+.widget-grid {
+	display: flex;
+	width: 100%;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.widget-grid .scroll-wrap {
+	display: flex;
+	box-sizing: border-box;
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	padding: 40px 0;
+	justify-content: space-around;
+}
+
+.hidden .widget-grid {
+	opacity: 0;
+}
+
+#background, #background-overlay {
+	z-index: -2;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+#background {
+	z-index: -3;
+	background-color: #111;
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+
+@media (max-width: 750px) {
+	html, body, #app {
+		height: auto;
+		overflow: auto;
+	}
+
+	.widget-grid {
+		margin: none;
+		padding: 1em;
+		position: static;
+		transform: none;
+		width: auto;
+	}
+}
+
+.fittext {
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+	span {
+		position: absolute;
+		top: 50%;
+		left: 0;
+		right: 0;
+		transform: translate(0, -50%);
+	}
+}
+
+
+
+@import "buttons";
+@import "panel";
+@import "widget";
+@import "fields";
+@import "meter";
+@import "alert.scss";
+@import "modal";
+@import "onboarding";
+@import "utils";
+@import "scrollbar";
+@import "stats";
+@import "iconbar";
+@import "links";
+@import "todolist";
+@import "table";
+@import "weather";
+
+@import "~react-grid-layout/css/styles.css";
+@import "~react-resizable/css/styles.css";
+
+
+#unlock-widgets {
+	display: block;
+	position: fixed;
+	bottom: 2px;
+	right: 2px;
+
+	color: rgba(255, 255, 255, 0.65);
+	font-size: 1rem;
+	line-height: 1.5;
+	opacity: 0.8;
+}
+
+.edit-bar {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	display: flex;
+	flex-direction: row;
+	gap: 0.5rem;
+	padding: 0.5rem 0.8rem;
+	z-index: 100;
+	background: var(--color-background);
+	align-items: center;
+
+	.btn {
+		margin: 0;
+	}
+}

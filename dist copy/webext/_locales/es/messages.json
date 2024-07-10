@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Hüma Başlangıç",
+		"description": "The name of the app"
+	},
+	"appDescription": {
+		"message": "Una página de Nueva Pestaña personalizable, con widgets y fondos hermosos",
+		"description": "App description"
+	}
+}

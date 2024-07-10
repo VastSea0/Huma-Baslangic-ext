@@ -1,0 +1,76 @@
+.panel {
+	display: block;
+	background: rgba(15, 15, 15, var(--panel-opacity));
+	border-radius: var(--panel-border-radius);
+	box-shadow: 0px 4px 12px 0 HSL(243deg 62% 18% / 20%), 0px 2px 6px 0 HSL(243deg 62% 18% / 15%);
+	padding: 0;
+	transition: background-color 0.15s ease-in-out, drop-shadow 0.15s ease-in-out;
+
+	&:not(.flush), .panel-inset {
+		padding: 0.8rem;
+	}
+
+	h2.panel-inset {
+		margin-bottom: 0;
+	}
+
+	&:focus-visible {
+		box-shadow: 0px 4px 12px 0 HSL(243deg 62% 18% / 40%), 0px 2px 6px 0 HSL(243deg 62% 18% / 30%);
+	}
+}
+
+@supports (backdrop-filter: brightness(70%) contrast(110%) saturate(140%) blur(12px)) {
+	.panel {
+		background: none;
+		backdrop-filter: brightness(calc(100% - var(--panel-opacity) / 1.666666667))
+				contrast(110%) saturate(140%) blur(var(--panel-blur));
+	}
+}
+
+.panel, .modal-body, .widget {
+	> *:first-child {
+		margin-top: 0;
+	}
+
+	> *:last-child {
+		margin-bottom: 0;
+	}
+
+	h2 {
+		margin-top: 0;
+	}
+
+	h2, h3 {
+		font-size: 110%;
+	}
+
+	h4, h5 {
+		font-size: 100%;
+	}
+
+	h2, h3, h4, h5 {
+		font-weight: bold;
+
+		a {
+			color: white;
+			text-decoration: none;
+
+			&:hover {
+				color: white;
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+.form ul.links {
+	margin: 0.5em 0;
+	background: rgba(255, 255, 255, 0.05);
+	border-radius: 2px;
+}
+
+.panel-invis {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}

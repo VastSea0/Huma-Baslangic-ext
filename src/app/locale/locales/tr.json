@@ -1,0 +1,1321 @@
+{
+    "languageName": {
+        "message": "Türkçe",
+        "description": "The name of the current language, to be used in the settings dialog"
+    },
+    "3ZfhWo": {
+        "message": "{host}'a erişmek için izin gerekiyor. Bu aracı düzenleyerek izin verebilirsiniz."
+    },
+    "3aaibf": {
+        "message": "Araç ekle"
+    },
+    "47FYwb": {
+        "message": "İptal"
+    },
+    "4syC1B": {
+        "message": "Yardım ve İstekler"
+    },
+    "8J0Bhj": {
+        "message": "<a>Hüma Başlangıç</a>'e hoş geldiniz: araçlar ve güzel arkaplanlar içeren, özelleştirilebilir bir Yeni Sekme sayfası."
+    },
+    "9+2gJZ": {
+        "message": "Bu araç tarayıcı uzantı versiyonuna ihtiyaç duyar."
+    },
+    "CshCZY": {
+        "message": "Arkaplan Tipi"
+    },
+    "GqPEp+": {
+        "message": "Tarayıcı uzantı versiyonuna ihtiyaç duyar"
+    },
+    "K3r6DQ": {
+        "message": "Sil"
+    },
+    "N/7Stk": {
+        "message": "<a>rubenwardy</a> tarafından yaratılmıştır."
+    },
+    "PM6qZ7": {
+        "message": "Saniye göster"
+    },
+    "T/wBPw": {
+        "message": "{type} aracını kaldır"
+    },
+    "TkgCJ9": {
+        "message": "Aşağıdaki linki kullanarak yardım alabilir veya bir özellik talep edebilirsiniz."
+    },
+    "WZjKFf": {
+        "message": "Uyarı: araç ayarlarına kişisel bilgi girdiyseniz burası kişisel bilgi içerebilir."
+    },
+    "Z2/hH0": {
+        "message": "Görüntü: {filename}"
+    },
+    "bQFsdR": {
+        "message": "{host}'a erişmek için izin verin"
+    },
+    "cR7nCG": {
+        "message": "Temayı varsayılana sıfırla"
+    },
+    "ekIjqh": {
+        "message": "Bütün internet sitelerine erişmek için izin verin"
+    },
+    "h/ftND": {
+        "message": "Bir dosya seçin"
+    },
+    "hktZIl": {
+        "message": "Zamanı gösterir"
+    },
+    "iH2AHA": {
+        "message": "<a>Açık kaynak</a>, GPLv3+ kapsamında lisanslanmıştır."
+    },
+    "kAEQyV": {
+        "message": "Tamam"
+    },
+    "o2uuHu": {
+        "message": "12 saatlik saat"
+    },
+    "translation_credits": {
+        "message": "Doğucan Gelbal tarafından Türkçeye çevrilmiştir.",
+        "description": "Credit the translators: LANGUAGE translation by YOUR NAME"
+    },
+    "uRYRJh": {
+        "message": "{type} aracını düzenle"
+    },
+    "wogY8a": {
+        "message": "Araç Yarat"
+    },
+    "y1Z3or": {
+        "message": "Dil"
+    },
+    "yfgoZf": {
+        "message": "Discord / Matrix odaları"
+    },
+    "ykNa5O": {
+        "message": "Font-Awesome'a ikonlar için, React'e arayüz için, WebPack'e buildler için teşekkürler."
+    },
+    "z7UTSa": {
+        "message": "Hüma Başlangıç hakkında"
+    },
+    "D3idYv": {
+        "message": "Ayarlar"
+    },
+    "QqE4JC": {
+        "message": "Besleme URL'i eksik."
+    },
+    "T4VxQN": {
+        "message": "Yükleniyor…"
+    },
+    "U2Qnh7": {
+        "message": "Görüntü",
+        "description": "Image background mode"
+    },
+    "WKiXhX": {
+        "message": "Renk",
+        "description": "Color background mode"
+    },
+    "lUdRdE": {
+        "message": "Hata: {msg}"
+    },
+    "lYJGY5": {
+        "message": "Görüntü URL'i",
+        "description": "Image URL background mode"
+    },
+    "lkJAu6": {
+        "message": "Unsplash",
+        "description": "Unsplash background mode"
+    },
+    "/dtDqf": {
+        "message": "Notlar",
+        "description": "Notes Widget"
+    },
+    "7OH6mh": {
+        "message": "Görüntü",
+        "description": "Image Widget"
+    },
+    "CmRs9p": {
+        "message": "Arama",
+        "description": "Search Widget"
+    },
+    "G6WG/N": {
+        "message": "Görünmez",
+        "description": "Invisible Widget"
+    },
+    "Lxc1x4": {
+        "message": "Saat",
+        "description": "Clock Widget"
+    },
+    "S3njcM": {
+        "message": "IFrame",
+        "description": "IFrame Widget"
+    },
+    "SAo61B": {
+        "message": "Yer İmleri",
+        "description": "Bookmarks Widget"
+    },
+    "SG4UJU": {
+        "message": "Buton",
+        "description": "Button Widget"
+    },
+    "TUnCKb": {
+        "message": "Yazı",
+        "description": "Text Widget"
+    },
+    "XsTD4Q": {
+        "message": "Yapılacaklar Listesi",
+        "description": "Todo List Widget"
+    },
+    "ZZIlU9": {
+        "message": "Günlük Hedef",
+        "description": "Daily Goal Widget"
+    },
+    "dGu5JQ": {
+        "message": "Besleme",
+        "description": "Feed Widget"
+    },
+    "gSjZfg": {
+        "message": "Linkler",
+        "description": "Links Widget"
+    },
+    "p8GKKf": {
+        "message": "Sık Kullanılan Siteler",
+        "description": "Top Sites Widget"
+    },
+    "tyq8NB": {
+        "message": "Hava Durumu",
+        "description": "Weather Widget"
+    },
+    "ubO4zt": {
+        "message": "Çevrimiçi Çizgi Roman",
+        "description": "Web Comic Widget"
+    },
+    "x59fh0": {
+        "message": "Uzay Uçuşları",
+        "description": "Space Flights Widget"
+    },
+    "or/+Da": {
+        "message": "Biçimleme",
+        "description": "Subheading for per-widget styling properties"
+    },
+    "Q1mwPp": {
+        "message": "<a>Kendi dilinizi eklemeyi veya desteklemeyi</a> düşünebilirsiniz."
+    },
+    "rAuRqW": {
+        "message": "Çeviriler topluluk tarafından sağlanmıştır."
+    },
+    "a09vzt": {
+        "message": "HTTP isteği başarısız oldu, {code} {msg}."
+    },
+    "ekW/+6": {
+        "message": "İnternete bağlanılamıyor"
+    },
+    "ao/AFQ": {
+        "message": "Günlük bir hedefinizi hatırlatır",
+        "description": "Daily Goal widget description"
+    },
+    "H00a0q": {
+        "message": "Heading oluşturmak için boş bırakın",
+        "description": "Links widget, form field hint (Link URL)"
+    },
+    "xtOPHp": {
+        "message": "Link URL'i",
+        "description": "Form field label"
+    },
+    "X18x9m": {
+        "message": "Genel",
+        "description": "Settings tab"
+    },
+    "OBJta4": {
+        "message": "Araç içinde tıklayarak ismi değiştirebilirsiniz",
+        "description": "Greeting widget: edit modal hint"
+    },
+    "fz43UJ": {
+        "message": "Bağış yap",
+        "description": "Hüma Başlangıç bağış linki"
+    },
+    "K8s82y": {
+        "message": "Doğum tarihi",
+        "description": "Age widget: form field label"
+    },
+    "4UpnpD": {
+        "message": "Görüntüler tarayıcınızda yerel olarak saklanır, asla internete yüklenmez",
+        "description": "Form field hint (Image)"
+    },
+    "zsdRww": {
+        "message": "Ana butonlar ve linkler için kullanılır",
+        "description": "Theme settings: form field hint (Primary Color)"
+    },
+    "VPDVTF": {
+        "message": "Burada bir şey yok",
+        "description": "Shown when array table form field has no rows"
+    },
+    "X5OoHJ": {
+        "message": "Bugünkü hedefiniz nedir?",
+        "description": "Daily Goal prompt"
+    },
+    "pHo6u+": {
+        "message": "Beslemede görüntü bulunamadı",
+        "description": "Web Comic widget: no images found error"
+    },
+    "xvXMaZ": {
+        "message": "Sizi selamlar",
+        "description": "Greeting widget description"
+    },
+    "Wi0G88": {
+        "message": "Hakkında ve Yardım",
+        "description": "Settings tab"
+    },
+    "sPl3nI": {
+        "message": "Başlık",
+        "description": "Form field label"
+    },
+    "wr0l0L": {
+        "message": "Bir URL'den görüntü",
+        "description": "Backgroud mode description"
+    },
+    "fWK68w": {
+        "message": "Yazı tipi",
+        "description": "Theme settings: form field label"
+    },
+    "VkW6D1": {
+        "message": "center, top, or bottom",
+        "description": "Backgroud settings: form field hint (Position)"
+    },
+    "Kzo9ZH": {
+        "message": "Görüntü URL'i",
+        "description": "Form field label"
+    },
+    "YYoBQn": {
+        "message": "Panel Bulanıklık Yarıçapı",
+        "description": "Theme settings: form field label"
+    },
+    "GXkv/F": {
+        "message": "Lütfen bir konum seçin",
+        "description": "Location form field: prompt"
+    },
+    "aaxFkJ": {
+        "message": "Yeni bir yapılacak hatırlatması yarat",
+        "description": "Todo List widget: prompt"
+    },
+    "3Nw7b0": {
+        "message": "Arama motoru ismi",
+        "description": "Search widget: form field label"
+    },
+    "zKofmb": {
+        "message": "Koleksiyon kodu. URL'de bulabilirsiniz, örnek: 42576559",
+        "description": "Backgroud settings: form field hint (Unsplash Collection)"
+    },
+    "sYvWWw": {
+        "message": "İsteğe bağlı, URL'den görüntü (18px önerilir)",
+        "description": "Links widget, form field hint (Icon)"
+    },
+    "dIwFS5": {
+        "message": "Bir görüntü seç",
+        "description": "Form field label"
+    },
+    "3vh5vd": {
+        "message": "Bir şey göstermez, yerleşim için kullanılır",
+        "description": "Invisible widget description"
+    },
+    "fW8Xpd": {
+        "message": "Konum gerekli. Düzenle'ye tıklayarak ekleyin.",
+        "description": "Weather widget: location needed error"
+    },
+    "rb3Zy8": {
+        "message": "Makaleleri Filtrele",
+        "description": "Feed widget: form field label"
+    },
+    "5DCxT+": {
+        "message": "Sıcaklık Birimi",
+        "description": "Weather widget: form field label"
+    },
+    "3/EBw0": {
+        "message": "İnternet sitesi",
+        "description": "Hüma Başlangıç website"
+    },
+    "l8+Uwz": {
+        "message": "Düzenlenecek bir şey yok.",
+        "description": "Form has no fields"
+    },
+    "0feb3b": {
+        "message": "İsteğe bağlı, resmi link haline getirir",
+        "description": "Image widget: Form field hint (Link)"
+    },
+    "jSHZmX": {
+        "message": "Yapılacaklar listesi ögelerini takip edin",
+        "description": "Todo List widget: description"
+    },
+    "KyDwm3": {
+        "message": "Sık kullanılan sitelerinizi gösterir",
+        "description": "Top Sites widget: description"
+    },
+    "lwUV0r": {
+        "message": "Araca tıklayarak hedefinizi değiştirebilirsiniz",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "V1EIOe": {
+        "message": "Bir internet sayfası gösterir",
+        "description": "IFrame widget description"
+    },
+    "zfsplE": {
+        "message": "Bir daha gösterme",
+        "description": "Background credits vote"
+    },
+    "irdBm2": {
+        "message": "Tema",
+        "description": "Settings tab"
+    },
+    "+oSH/F": {
+        "message": "Şu anki yaşınızı gereğinden fazla hassasiyetle gösterir",
+        "description": "Age widget description"
+    },
+    "ktmuOE": {
+        "message": "Beslemenin başlığını kullanmak için boş bırakın",
+        "description": "Feed widget: form field hint (Title)"
+    },
+    "AgU+/t": {
+        "message": "Yakında gerçekleşecek uzay uçuşlarının bir listesi, RocketLaunch.Live ile çalışır",
+        "description": "SpaceFlights widget description"
+    },
+    "D0+wcK": {
+        "message": "Bir görüntü göster, isteğe bağlı olarak link de yapılabilir",
+        "description": "Image widget description"
+    },
+    "+GMx80": {
+        "message": "Konum bulunamadı",
+        "description": "Location form field: error"
+    },
+    "gEYo49": {
+        "message": "Pozisyon",
+        "description": "Backgroud settings: form field label"
+    },
+    "GSox4d": {
+        "message": "Bilgisayarınızda kurulu olan bir yazı tipi ismi",
+        "description": "Theme settings: form field hint (Font)"
+    },
+    "RZqASt": {
+        "message": "Tek bir renk",
+        "description": "Backgroud mode description"
+    },
+    "JvOSvX": {
+        "message": "Arkaplan",
+        "description": "Settings tab"
+    },
+    "27lljH": {
+        "message": "<b>{age}</b> yaşındasınız",
+        "description": "Age widget text"
+    },
+    "qCsSqt": {
+        "message": "Panel Arkaplan Koyuluğu",
+        "description": "Theme settings: form field label"
+    },
+    "ShQneX": {
+        "message": "Yazı",
+        "description": "Form field label"
+    },
+    "amHvKE": {
+        "message": "Buraya not yazın",
+        "description": "Notes widget: prompt"
+    },
+    "VjDvbL": {
+        "message": "URL",
+        "description": "Form field label"
+    },
+    "J91edI": {
+        "message": "Dışarıdan yükle / Dışarı gönder",
+        "description": "Settings tab"
+    },
+    "oDog89": {
+        "message": "Notlar için düzenlenebilir bir metin kutusu",
+        "description": "Notes widget description"
+    },
+    "qoEZRi": {
+        "message": "Unsplash koleksiyonu",
+        "description": "Backgroud settings: form field label"
+    },
+    "iFxzUm": {
+        "message": "Beğen",
+        "description": "Background credits vote"
+    },
+    "0hxZWu": {
+        "message": "İkon",
+        "description": "Form field label"
+    },
+    "ZUZeuR": {
+        "message": "Bir mesaj göster",
+        "description": "Text widget description"
+    },
+    "Z79HMN": {
+        "message": "Elle seçilmiş rastgele arkaplanlar",
+        "description": "Backgroud mode description"
+    },
+    "4F+2K3": {
+        "message": "Bir Unsplash koleksiyonundan rastgele bir görüntü",
+        "description": "Backgroud mode description"
+    },
+    "8xVVb5": {
+        "message": "Ana Renk",
+        "description": "Theme settings: form field label"
+    },
+    "qYVXqA": {
+        "message": "{mode} Ayarları",
+        "description": "Background mode options"
+    },
+    "XrQEPN": {
+        "message": "Konum",
+        "description": "Form field label"
+    },
+    "oJnbwn": {
+        "message": "isim",
+        "description": "Greeting widget: name prompt"
+    },
+    "cSF2y1": {
+        "message": "Yer işaretlerinizi gösterir",
+        "description": "Bookmarks widget description"
+    },
+    "OQHLB5": {
+        "message": "Renk",
+        "description": "Form field label"
+    },
+    "ZRWjTk": {
+        "message": "Tarayıcının varsayılan arama motorunu kullan",
+        "description": "Search widget: form field label"
+    },
+    "pVrtrA": {
+        "message": "Özel bir görüntü kullan",
+        "description": "Backgroud mode description"
+    },
+    "LfHpBk": {
+        "message": "Yazı Tipi Boyutlama",
+        "description": "Theme settings: form field label"
+    },
+    "YS5zRT": {
+        "message": "{name} ile ara",
+        "description": "Search widget: searchbox placeholder text, when search engine name is known"
+    },
+    "MN3prI": {
+        "message": "Klasörleri bölme olarak göster",
+        "description": "Bookmarks widget: form field label"
+    },
+    "nGSwtl": {
+        "message": "Ara",
+        "description": "Search widget: searchbox placeholder text, when search engine name is unknown"
+    },
+    "y8o0oA": {
+        "message": "Şu anki ve tahmin edilen hava durumları",
+        "description": "Weather widget description"
+    },
+    "Bl74xq": {
+        "message": "Bir link butonu",
+        "description": "Button widget description"
+    },
+    "1s5GYl": {
+        "message": "Opaklık",
+        "description": "Form field label"
+    },
+    "kueLs9": {
+        "message": "Linkler",
+        "description": "Links widget: form field label"
+    },
+    "2efE5y": {
+        "message": "Karşılama",
+        "description": "Greeting Widget"
+    },
+    "WF5DKA": {
+        "message": "Yaş",
+        "description": "Age widget"
+    },
+    "6pdO6i": {
+        "message": "Yer imleri alınamıyor",
+        "description": "Bookmarks widget: error message"
+    },
+    "xtl3ls": {
+        "message": "Özel ikonlar kullan",
+        "description": "Links widget: form field label"
+    },
+    "ofl4Ui": {
+        "message": "Ara",
+        "description": "Location form field: search"
+    },
+    "GWRKVT": {
+        "message": "Yazı rengi",
+        "description": "Form field label"
+    },
+    "wEQDC6": {
+        "message": "Düzenle"
+    },
+    "KsX2fE": {
+        "message": "{latitude}' {longitude} konumundaki <b>{name}</b>"
+    },
+    "VxE3S8": {
+        "message": "Bu, URL'i Hüma Başlangıç geliştiricilerine gönderir. Geliştiriciler bunu bütün kullanıcılara öneri olarak ekleyebilirler.",
+        "description": "Host URL field: help text for suggest URL button"
+    },
+    "wwQ6Va": {
+        "message": "Konum Seç",
+        "description": "Location field"
+    },
+    "ziyAdj": {
+        "message": "Dışarıdan yükle",
+        "description": "Import / export settings, import"
+    },
+    "adRrk3": {
+        "message": "Her şeyi sıfırla",
+        "description": "Import / export settings, reset"
+    },
+    "olBVPS": {
+        "message": "Dışarı gönder",
+        "description": "Import / export settings, export"
+    },
+    "2/2yg+": {
+        "message": "Ekle"
+    },
+    "a0L2KE": {
+        "message": "Ülke ismini veya baş harflerini eklemeyi deneyin."
+    },
+    "6MDM6D": {
+        "message": "Ünlü sözler",
+        "description": "Quotes Widget"
+    },
+    "KhM0zv": {
+        "message": "Ünlü sözler harici kaynaklar tarafından sağlanır ve Hüma Başlangıç tarafından incelenmemişlerdir.",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "GcxpZV": {
+        "message": "Tarih biçimi",
+        "description": "Clock widget: date style form field label"
+    },
+    "JzanJ8": {
+        "message": "Izgara Sütunları",
+        "description": "Widget grid: form label for grid columns"
+    },
+    "IqLwUL": {
+        "message": "Izgara Boşluğu",
+        "description": "Widget grid: form label for grid spacing"
+    },
+    "PYJFvz": {
+        "message": "Kategori",
+        "description": "Form field label, list of categories. Used by Quotes widget"
+    },
+    "Dk7Khi": {
+        "message": "Fahrenheit",
+        "description": "Weather widget: Fahrenheit unit"
+    },
+    "Mihrhf": {
+        "message": "Yok",
+        "description": "Clock widget: date style type, not shown"
+    },
+    "nnaWVi": {
+        "message": "Celsius",
+        "description": "Weather widget: Celsius unit"
+    },
+    "vVnypL": {
+        "message": "Kategorilere ayrılmış olarak rastgele bir ünlü söz gösterir",
+        "description": "Quotes Widget description"
+    },
+    "xR87uK": {
+        "message": "Araçlar arasındaki boşluk, piksel cinsinden.",
+        "description": "Widget grid: form hint for grid spacing"
+    },
+    "5mVcg9": {
+        "message": "Özel CSS",
+        "description": "Theme settings: form field label"
+    },
+    "JihbEV": {
+        "message": "CSS dokümantasyonu",
+        "description": "Theme settings: link to CSS docs"
+    },
+    "QBZZBG": {
+        "message": "Lütfen unutmayın: bu deneysel bir özelliktir ve CSS seçenekleri gelecek sürümlerde bozulabilir.",
+        "description": "Theme settings: form field hint (Custom CSS)"
+    },
+    "ZeZlbR": {
+        "message": "Renkli butonun opaklığını ayarlar",
+        "description": "Button widget: form field hint (Opacity)"
+    },
+    "I48yxw": {
+        "message": "Gizlilik",
+        "description": "General settings: privacy"
+    },
+    "QcExtH": {
+        "message": "Gizlilik Politikası",
+        "description": "General settings: privacy policy button"
+    },
+    "as6rZ1": {
+        "message": "Hata raporlamayı etkinleştir (Sentry kullanır)",
+        "description": "General settings: enable sentry"
+    },
+    "BJYZgx": {
+        "message": "Hareket düğmesi (<move></move>) ve boyut değiştirme düğmesini (<resize></resize>) kullanın."
+    },
+    "MiIvsP": {
+        "message": "Anlaşılabilir kontrolleri kullanarak ızgaraya araç ekleyebilir, araçları hareket ettirebilir, boyutlandırabilir ve ayarlayabilirsiniz."
+    },
+    "YuNOET": {
+        "message": "HTML",
+        "description": "HTML widget: form field label"
+    },
+    "uzT59w": {
+        "message": "Izgara",
+        "description": "Preset: Grid"
+    },
+    "CNpJaZ": {
+        "message": "Odak",
+        "description": "Preset: focus"
+    },
+    "RCe+DS": {
+        "message": "Araçları Sürükle ve Bırak"
+    },
+    "mv9TrH": {
+        "message": "HTML",
+        "description": "HTML Widget"
+    },
+    "pbEMNj": {
+        "message": "Geri",
+        "description": "Onboarding page: previous button"
+    },
+    "yvWbz6": {
+        "message": "İleri",
+        "description": "Onboarding page: next button"
+    },
+    "ywSKRt": {
+        "message": "Özel HTML",
+        "description": "HTML widget description"
+    },
+    "gAZqVl": {
+        "message": "Daha sonra araç ekleyip (<add></add>) kaldırabilirsiniz (<remove></remove>), veya ayarları istediğiniz gibi değiştirebilirsiniz (<cog></cog>).",
+        "description": "Onboarding: preset hint"
+    },
+    "L6nTur": {
+        "message": "Bir Başlangıç Noktası Seçin",
+        "description": "Onboarding: presets title"
+    },
+    "yUJ5MA": {
+        "message": "Hedefler",
+        "description": "Preset: goals"
+    },
+    "0l+aD2": {
+        "message": "Günlük hedefler ve ünlü sözler",
+        "description": "Preset: focus description"
+    },
+    "7wOM6+": {
+        "message": "Yıl İlerlemesi",
+        "description": "Year Progress widget"
+    },
+    "Cq4JWx": {
+        "message": "Haberler, hava durumu, ve daha fazlası",
+        "description": "Preset: grid description"
+    },
+    "b2Rs2F": {
+        "message": "Açık renkli görüntülerin parlaklığını değiştirir",
+        "description": "Backgroud settings: form field label (Brightness: Light)"
+    },
+    "gHzZEt": {
+        "message": "Sadece bir saat ve arama çubuğu",
+        "description": "Preset: focus description"
+    },
+    "hUIQ7h": {
+        "message": "Parlaklık",
+        "description": "Backgroud settings: form field label"
+    },
+    "ku7Ot7": {
+        "message": "Parlaklık: Açık",
+        "description": "Backgroud settings: form field label"
+    },
+    "mSg5KK": {
+        "message": "Parlaklık: Koyu",
+        "description": "Backgroud settings: form field label"
+    },
+    "q4caWd": {
+        "message": "Bulanıklık genişliği",
+        "description": "Backgroud settings: form field label"
+    },
+    "vlumg9": {
+        "message": "Araç ara...",
+        "description": "Create Widgets modal: search widgets placeholder"
+    },
+    "zEj0dg": {
+        "message": "Yılın ilerlemesini bir ilerleme çubuğunda gösterir",
+        "description": "Age widget description"
+    },
+    "qEk9AJ": {
+        "message": "Koyu renkli görüntülerin parlaklığını değiştirir",
+        "description": "Backgroud settings: form field label (Brightness: Dark)"
+    },
+    "Ddd3ZY": {
+        "message": "Bu birime",
+        "description": "Currencies widget: form field label"
+    },
+    "oBl48o": {
+        "message": "Bütün verinizi sıfırlamak istediğinizden emin misiniz?",
+        "description": "Import / export settings, reset confirmation"
+    },
+    "Abtyj/": {
+        "message": "Resim 2MB'den büyük({dataSizeMB}MB). Daha kısa yükleme süreleri için daha küçük bir resim kullanın.",
+        "description": "Image upload error message"
+    },
+    "pG7wIz": {
+        "message": "Döviz kurlarını gösterir, forex birimleri ve kripto (BitCoin vb.) desteği vardır",
+        "description": "Currencies widget description"
+    },
+    "aXrD3p": {
+        "message": "Para birimleri",
+        "description": "Currencies widget"
+    },
+    "IbCXY9": {
+        "message": "Standart ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "QV6YlB": {
+        "message": "Döviz Kurları",
+        "description": "Currencies widget: form field label"
+    },
+    "kF06lD": {
+        "message": "Uzun ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "OPzczE": {
+        "message": "Kısaltmalı ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "4dzBeG": {
+        "message": "Bu birimden",
+        "description": "Currencies widget: form field label"
+    },
+    "nF7bWj": {
+        "message": "ISO ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "O8mt7g": {
+        "message": "Sayılar ({example})",
+        "description": "Clock widget: date style type"
+    },
+    "0PsF7Z": {
+        "message": "Bu aracı kalıcı olarak kaldırmak istediğinizden emin misiniz?",
+        "description": "Delete widget modal message"
+    },
+    "3vjl5Q": {
+        "message": "Göster / Gizle",
+        "description": "Feed widget filter allow label"
+    },
+    "yY7Rve": {
+        "message": "Gizle",
+        "description": "Feed widget: filter show checkbox label"
+    },
+    "zo4ZQa": {
+        "message": "Göster",
+        "description": "Feed widget: filter allow checkbox label"
+    },
+    "TIEfOV": {
+        "message": "Bir makale var olan en az bir \"Göster\" filtresine dahilse ve hiçbir \"Gizle\" filtresine dahil değilse gösterilir.",
+        "description": "Feed widget: form field hint (Filters)"
+    },
+    "4cMia7": {
+        "message": "Yeni bir fotoğraf göster",
+        "description": "Backgroud settings: form field label (how often background images change)"
+    },
+    "Ay1sfO": {
+        "message": "En yeni kaç resim arasından rastgele seçim yapılacağını kontrol eder. Bunu 1'e ayarlarsanız her zaman son resim seçilir",
+        "description": "Feed background mode: form field hint (Limit images)"
+    },
+    "E4nLwR": {
+        "message": "Her gün",
+        "description": "Background expiry dropdown"
+    },
+    "PBMGxw": {
+        "message": "Resimleri limitle",
+        "description": "Feed background mode: form field label"
+    },
+    "XV4mnl": {
+        "message": "Ayarlarınıza bağlı olarak, aynı fotoğraf seçilebilir",
+        "description": "Background settings: form field hint (Show a new photo)"
+    },
+    "YQhLKn": {
+        "message": "Her saat",
+        "description": "Background expiry dropdown"
+    },
+    "d7dHsn": {
+        "message": "Her 15 dakika",
+        "description": "Background expiry dropdown"
+    },
+    "+TYXj6": {
+        "message": "Bugün, {time}",
+        "description": "SpaceFlights widget: today and time"
+    },
+    "2vJWTd": {
+        "message": "Fotoğraf",
+        "description": "Background credits title placeholder"
+    },
+    "B0kbsm": {
+        "message": "Besleme",
+        "description": "Unsplash background mode"
+    },
+    "HPLtg4": {
+        "message": "Bilinmeyen para birimi ''{currency}''",
+        "description": "Currencies widget: error"
+    },
+    "RhyKzC": {
+        "message": "Seçilmiş",
+        "description": "Curated background mode"
+    },
+    "mL3MOs": {
+        "message": "Mil/saat (mph)",
+        "description": "Weather widget: Speed unit"
+    },
+    "+sI+Oh": {
+        "message": "Saatlik hava durumu göster",
+        "description": "Weather widget: form field label"
+    },
+    "/4k9ry": {
+        "message": "<b>Çok Yüksek</b> UV",
+        "description": "Very High UV risk"
+    },
+    "BiPNnl": {
+        "message": "Rüzgar Hızı Birimi",
+        "description": "Weather widget: form field label"
+    },
+    "HEvlTB": {
+        "message": "Görüntüleme Ayarları",
+        "description": "Weather widget: display subform title"
+    },
+    "JN/uvd": {
+        "message": "<b>Orta</b> UV",
+        "description": "Moderate UV risk"
+    },
+    "Upkn1Q": {
+        "message": "<b>Yüksek</b> UV",
+        "description": "High UV risk"
+    },
+    "W3zKGr": {
+        "message": "Kilometre/saat (kph)",
+        "description": "Weather widget: Speed unit"
+    },
+    "abwneZ": {
+        "message": "Metre/saniye (m/s)",
+        "description": "Weather widget: Speed unit"
+    },
+    "ckvzIb": {
+        "message": "<b>Düşük</b> UV",
+        "description": "Low UV risk"
+    },
+    "hCBQrY": {
+        "message": "Hissedilen sıcaklık: <b>{temp}°</b>"
+    },
+    "mw6Uh+": {
+        "message": "Günlük hava durumu göster",
+        "description": "Weather widget: form field label"
+    },
+    "pqIuCa": {
+        "message": "Anlık hava durumu göster",
+        "description": "Weather widget: form field label"
+    },
+    "zaQRTm": {
+        "message": "<b>Aşırı yüksek</b> UV",
+        "description": "Extreme UV risk"
+    },
+    "2AUlDo": {
+        "message": "İyi uykular, {name}",
+        "description": "Greeting widget: greeting, from 9pm to midnight"
+    },
+    "2O5Rq1": {
+        "message": "İyi akşamlar, {name}",
+        "description": "Greeting widget: greeting, from 4pm to 9pm"
+    },
+    "FqCn+F": {
+        "message": "Günaydın, {name}",
+        "description": "Greeting widget: greeting, from midnight to noon"
+    },
+    "oGS5TE": {
+        "message": "İyi günler, {name}",
+        "description": "Greeting widget: greeting, from noon to 4pm"
+    },
+    "v9UIPJ": {
+        "message": "Gündoğumu - Günbatımı",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "M0PwXU": {
+        "message": "Rüzgar Hızı ({unit})",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "S6nfAm": {
+        "message": "Nem (%)",
+        "description": "Weather widget: humidity tooltip"
+    },
+    "Go7At+": {
+        "message": "CMT",
+        "description": "Short weekday name (Saturday)"
+    },
+    "Vckd1G": {
+        "message": "PZT",
+        "description": "Short weekday name (Monday)"
+    },
+    "YS3jnS": {
+        "message": "CUM",
+        "description": "Short weekday name (Friday)"
+    },
+    "eXB4qM": {
+        "message": "ÇAR",
+        "description": "Short weekday name (Wednesday)"
+    },
+    "frEJEM": {
+        "message": "PER",
+        "description": "Short weekday name (Thursday)"
+    },
+    "uv1bYR": {
+        "message": "SAL",
+        "description": "Short weekday name (Tuesday)"
+    },
+    "qzlLb3": {
+        "message": "PAZ",
+        "description": "Short weekday name (Sunday)"
+    },
+    "yT43pK": {
+        "message": "İnternet sitelerinden ikon kullan (favicon)",
+        "description": "Form field label"
+    },
+    "F1A/8i": {
+        "message": "Kaynaklar",
+        "description": "Feed widget: form field label"
+    },
+    "M6lR5V": {
+        "message": "Araç ızgarasındaki sütun sayısı. Şu anki pencere genişliğine ({res}px) sığdırabileceğiniz sütun sayısı: {max}.",
+        "description": "Widget grid: form hint for grid columns"
+    },
+    "btOI+Z": {
+        "message": "Yeni Sekme"
+    },
+    "lY73np": {
+        "message": "Panel arkaplanını göster",
+        "description": "Widget styling, checkbox"
+    },
+    "oRui+E": {
+        "message": "Hüma Başlangıc'ı sevdiniz mi? Bağış yaparak giderlerini karşılamaya ve geliştirilmesine yardımcı olmayı düşünebilirsiniz."
+    },
+    "3UG6ds": {
+        "message": "En sevdiğiniz arama motorunu kullanarak araçlar arasında veya internette arama yapın",
+        "description": "Search widget description"
+    },
+    "8HmiSe": {
+        "message": "Lütfen bir kaynak belirtin",
+        "description": "Feed widget: no sources error message"
+    },
+    "Ack5ID": {
+        "message": "Sonuç yok",
+        "description": "A search has returned no results here (note: there may be multiple places being searched)"
+    },
+    "KdIFGg": {
+        "message": "Arama URL'inde '{query}' eksik. Örnek: https://google.com/search/?q='{query}'",
+        "description": "Search widget: error, missing query variable"
+    },
+    "hWimZf": {
+        "message": "Araç aramasını etkinleştir",
+        "description": "Search widget: form field label, enable filtering widgets"
+    },
+    "n0cZ3b": {
+        "message": "{host} ile çalışır.",
+        "description": "Credit to a website"
+    },
+    "nHw5cV": {
+        "message": "Ögelere tıklayarak düzenleyin.",
+        "description": "Todo List widget: edit modal hint"
+    },
+    "o9vGxx": {
+        "message": "Linkleri yeni sekmede aç",
+        "description": "Form field label"
+    },
+    "q6/aVX": {
+        "message": "Bu aracı bir Arama aracı kullanarak filtreleyebilirsiniz.",
+        "description": "Edit hint shown on searchable widgets"
+    },
+    "sIC2UV": {
+        "message": "Metin göster",
+        "description": "Widget styling, checkbox for showing text on eg: Links"
+    },
+    "XYIyWM": {
+        "message": "Alanı en iyi şekilde kullanmak için \"Izgara Sütunları\"nı en az {cols} değerine çıkarın.",
+        "description": "Widget grid: form label 2 for grid full width"
+    },
+    "gQAsym": {
+        "message": "Sürüklerken diğer araçlar yana çekilmez.",
+        "description": "Widget grid: form label 3 for grid full width"
+    },
+    "/Mpu8A": {
+        "message": "Izgarayı bütün sayfası kaplayacak şekilde uzat.",
+        "description": "Widget grid: form label 1 for grid full width"
+    },
+    "x7WADS": {
+        "message": "Tam Sayfa Izgara",
+        "description": "Widget grid: form label for grid full width"
+    },
+    "+PNw8j": {
+        "message": "Bazı bilgileri gizleseniz bile, günlerin ve saatlerin üzerinde durarak görebilirsiniz",
+        "description": "Weather widget: form field hint (Display Options)"
+    },
+    "AuSjzq": {
+        "message": "Anlık: UV riskini göster",
+        "description": "Weather widget: form field label"
+    },
+    "B1pyj1": {
+        "message": "Anlık: Hissedilen sıcaklığı göster",
+        "description": "Weather widget: form field label"
+    },
+    "eKCjBm": {
+        "message": "Yağış (%)",
+        "description": "Weather widget: change of precipitation (rain, etc)"
+    },
+    "R4cyIr": {
+        "message": "Anlık: Nem durumunu göster",
+        "description": "Weather widget: form field label"
+    },
+    "5640CU": {
+        "message": "Anlık: Yağış durumunu göster",
+        "description": "Weather widget: form field label"
+    },
+    "BnmONl": {
+        "message": "Anlık: Gündoğumu / günbatımını göster",
+        "description": "Weather widget: form field label"
+    },
+    "HksGis": {
+        "message": "Anlık: Rüzgar durumunu göster",
+        "description": "Weather widget: form field label"
+    },
+    "PHwOzi": {
+        "message": "Unsplash, AccuWeather ve RocketLaunch.Live'a APIları için teşekkür ederiz."
+    },
+    "BfX7n6": {
+        "message": "Dikkat: Firefox'ta gradyan arkaplanlar üzerinde şeritle ve benzeri görsel hatalar oluşabilir. Bu bizim düzeltebileceğimiz bir şey değil.",
+        "description": "Gradient background disclaimer on Firefox"
+    },
+    "bfWes8": {
+        "message": "Gradyan Tipi",
+        "description": "Form field label"
+    },
+    "8xPAKF": {
+        "message": "Gradyan içinde rengin konumu, %0-100 arasında",
+        "description": "Form field hint (Stop)"
+    },
+    "ATbgo4": {
+        "message": "Radyal",
+        "description": "Form field option, radial gradient"
+    },
+    "B3NCWb": {
+        "message": "Renkler",
+        "description": "Form field label"
+    },
+    "lQIN1l": {
+        "message": "Hüma Başlangıç'i sevdiniz mi? Bir inceleme bırakın!"
+    },
+    "n+w6I2": {
+        "message": "Geçiş",
+        "description": "Form field label. Gradient stop (%)"
+    },
+    "C7WJrL": {
+        "message": "Dikey",
+        "description": "Form field option, vertical gradient"
+    },
+    "EpPEVJ": {
+        "message": "Gradyan",
+        "description": "Gradient background mode"
+    },
+    "KjUKUz": {
+        "message": "Renklerden oluşan bir gradyan",
+        "description": "Backgroud mode description"
+    },
+    "O2Mjef": {
+        "message": "İnceleme",
+        "description": "Review request, review button"
+    },
+    "SENRqu": {
+        "message": "Yardım"
+    },
+    "TDaF6J": {
+        "message": "Tamam"
+    },
+    "exTzGh": {
+        "message": "Yatay",
+        "description": "Form field option, horizontal gradient"
+    },
+    "2j5LN5": {
+        "message": "URL'in varsayılan önerilere eklenmesini öner",
+        "description": "Host URL field: button for users to suggest new URLs for RSS/JSONFeed/Atom feeds"
+    },
+    "c7zm0j": {
+        "message": "Besleme yüklenemedi. RSS, JSONFeed veya Atom beslemesi olduğundan emin olun."
+    },
+    "Lnvfz8": {
+        "message": "{source} yüklenemedi: {error}",
+        "description": "Feed error message"
+    },
+    "NjoFru": {
+        "message": "Bir Atom, JSONFeed veya RSS beslemesinden rastgele görüntü",
+        "description": "Backgroud mode description"
+    },
+    "+g7L/A": {
+        "message": "Atom, JSONFeed ve RSS beslemelerini gösterir - haberler, internet siteleri ve blogları takip edebilirsiniz",
+        "description": "Feed widget description"
+    },
+    "5mfAB9": {
+        "message": "Bir Atom, JSONFeed veya RSS beslemesi URL'i",
+        "description": "Form field hint (Feed URL)"
+    },
+    "zXtUcf": {
+        "message": "Endişelenmeyin, daha sonra kilidi kaldırabilirsiniz"
+    },
+    "/Mx09O": {
+        "message": "Deneysel. Bulunmayan görüntü bilgisi sebebiyle bütün besleme kaynaklarıyla çalışmaz. Görüntüler büyük olabilir, yüklenmeleri uzun sürebilir.",
+        "description": "Feed widget: form field hint (Show Images)"
+    },
+    "/aA+Xf": {
+        "message": "Görüntüleri göster",
+        "description": "Feed widget: form field label"
+    },
+    "h00yCR": {
+        "message": "Bir Atom, JSONFeed veya RSS beslemesinden yakın zamanda paylaşılan görüntüleri gösterir - Çevrimiçi çizgi romanlar için kullanışlıdır.",
+        "description": "Web Comic widget description"
+    },
+    "zPAzlS": {
+        "message": "Kaynakları tek sekmede birleştir",
+        "description": "Feed widget: form field label"
+    },
+    "appDescription": {
+        "message": "Araçlar ve güzel arka planlar içeren, özelleştirilebilir bir Yeni Sekme sayfası",
+        "description": "App description"
+    },
+    "appName": {
+        "message": "Hüma Başlangıç",
+        "description": "The name of the app"
+    },
+    "2s4stS": {
+        "message": "<a>Hüma Başlangıç</a>'e hoş geldiniz",
+        "description": "Onboarding modal: title"
+    },
+    "BmzsQb": {
+        "message": "Linkler; başlık ve ikon desteği vardır (hızlı arama)",
+        "description": "Links widget description"
+    },
+    "Oa5RYo": {
+        "message": "<b>Araçların da ayarları var</b>: farenizi bir aracın üzerine götürün ve özelleştirmek için kaleme tıklayın.",
+        "description": "General settings: help message"
+    },
+    "5MMUNJ": {
+        "message": "Bu <b>deneysel ve kullanımı zor olabilir</b>.",
+        "description": "Widget grid: form label 4 for grid full width"
+    },
+    "RVGNBh": {
+        "message": "İşiniz bittiğinde, <button></button>'a tıklayarak araçları salt okunur yapabilirsiniz."
+    },
+    "6wEkCM": {
+        "message": "Alternatif olarak, ince detaylı kontrol için Yer İşaretleri aracını kullanabilirsiniz.",
+        "description": "General settings: bookmarks bar"
+    },
+    "CN0kVN": {
+        "message": "Araç Izgarası",
+        "description": "Settings tab"
+    },
+    "Ekvvsi": {
+        "message": "Yer İşaretleri Çubuğu",
+        "description": "Chrome-only, a bar for bookmarks at the top"
+    },
+    "EscvnU": {
+        "message": "İkonlar",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "GpfSpy": {
+        "message": "Yer işaretleri çubuğunu göster",
+        "description": "General settings: bookmarks bar"
+    },
+    "IKpSw0": {
+        "message": "Yatay",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "R1jLoC": {
+        "message": "Dikey",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "dOlhtQ": {
+        "message": "Yer işaretleri çubuğunu sadece Yeni Sekme sayfasında göstermek için; adres çubuğunun yanına sağ tık > Yer İşaretleri Çubuğu > Sadece Yeni Sekmede Göster. <a>Daha fazla bilgi</a>",
+        "description": "General settings: Help for Firefox bookmarks bar"
+    },
+    "gS3mti": {
+        "message": "Liste kutusu stili",
+        "description": "Form field label"
+    },
+    "gXcVyS": {
+        "message": "Düzenlemeyi Bitir",
+        "description": "Edit bar button to make the grid readonly"
+    },
+    "j0VHNa": {
+        "message": "Yer işaretlerine erişmek ve internet sitelerinden ikon almak için izin ver"
+    },
+    "r8bU6m": {
+        "message": "Sayfanın üstünde yer işaretleri çubuğu göster.",
+        "description": "General settings: bookmarks bar"
+    },
+    "sFyAdH": {
+        "message": "Alternatif olarak: <import></import>"
+    },
+    "sX3mXR": {
+        "message": "Gizle",
+        "description": "Hide"
+    },
+    "tSMpM0": {
+        "message": "Sık kullanılan sitelere erişmek ve internet sitesi ikonlarını almak için izin ver",
+        "description": "Top Sites widget: permission request"
+    },
+    "zWgbGg": {
+        "message": "Bugün"
+    },
+    "MtrTNy": {
+        "message": "Yarın"
+    },
+    "QkI7Lb": {
+        "message": "Tarayıcı zaman dilimi ({browserTimeZone})",
+        "description": "An option when selecting a time zone"
+    },
+    "jGWq1h": {
+        "message": "Zaman Dilimi"
+    },
+    "pWdLkT": {
+        "message": "Lütfen <a>öğreticiyi</a> okuyun. Google Takvim ve Outlook dahil iCal destekleyen herhangi bir bulut takvim uygulamasını kullanabilirsiniz.",
+        "description": "CalendarSchedule widget: edit hint"
+    },
+    "20tqYI": {
+        "message": "Bir takvim için bir iCal (.ics) dosyasının URL'si",
+        "description": "CalendarSchedule widget: form field hint (Calendar URL)"
+    },
+    "qfkgCx": {
+        "message": "Etkinlikler için ne kadar ileri bakılacak? 1'e ayarlandığında sadece bugünün etkinlikleri gösterilir, 2'ye ayarlandığında bugün ve yarın, vb.",
+        "description": "CalendarSchedule widget: form field hint (max number of days)"
+    },
+    "wETxDh": {
+        "message": "Takvimler",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "7zYGs9": {
+        "message": "Takvim",
+        "description": "CalendarSchedule Widget"
+    },
+    "B4LnaC": {
+        "message": "Bir iCal (.ics) URL'sinden yaklaşan etkinlikleri göster (Google Takvim gibi)",
+        "description": "CalendarSchedule widget: description"
+    },
+    "grbGxs": {
+        "message": "Etkinlik yok",
+        "description": "CalendarSchedule: no events"
+    },
+    "nlnYxI": {
+        "message": "En fazla gün sayısı",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "oPO8GY": {
+        "message": "Takvim URL'si eksik. Bu aracı düzenleyerek ekleyin"
+    },
+    "DVGnNH": {
+        "message": "Bir arkaplan görselini beğenmek veya atlamak için farenizi sol alt taraftaki bilgilerin üstüne götürebilirsiniz."
+    },
+    "MdUPbJ": {
+        "message": "Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi",
+        "description": "Days of the week, separated by commas"
+    },
+    "ilIuh2": {
+        "message": "Bunu yararlı buldunuz mu? <a>Bağış yaparak</a> hava durumu API'sının ücretlerini karşılamayı ve Hüma Başlangıç'in geliştirilmesine katkı sağlamayı düşünebilirsiniz.",
+        "description": "Weather widget: asking for donations"
+    }
+}

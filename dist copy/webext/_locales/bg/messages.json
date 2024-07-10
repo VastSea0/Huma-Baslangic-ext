@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Hüma Başlangıç",
+		"description": "The name of the app"
+	},
+	"appDescription": {
+		"message": "Нов раздел с възможност за персонализиране с приспособления и красиви фонове",
+		"description": "App description"
+	}
+}

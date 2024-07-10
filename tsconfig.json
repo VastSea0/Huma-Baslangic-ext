@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"jsx": "react",
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"target": "ES2018",
+		"sourceMap": true,
+		"typeRoots": [
+			"./node_modules/@types",
+			"./node_modules/web-ext-types",
+			"src/@types"
+		],
+		"baseUrl": "src",
+		"esModuleInterop": true,
+		"strict": true,
+		"resolveJsonModule": true
+	},
+	"include": [
+		"src", "tests", "cypress"
+	]
+}

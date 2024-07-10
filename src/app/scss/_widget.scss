@@ -1,0 +1,337 @@
+.widget {
+	position: relative;
+
+	.widget-bar {
+		position: absolute;
+		bottom: 100%;
+		left: 0;
+
+		display: none;
+		flex-flow: row;
+		align-items: center;
+		visibility: collapse;
+
+		padding: 0;
+		margin: 0;
+
+		z-index: 250;
+		border-radius: var(--base-border-radius) 0.25rem 0 0;
+		transition: opacity 0.15s ease-in-out;
+		opacity: 0;
+		user-select: none;
+		overflow: hidden;
+		background-color: rgba(15, 15, 15, 0.5);
+
+		.widget-title {
+			margin: 0;
+			padding: 0.2rem 0.6rem;
+			cursor: move;
+		}
+
+		.fa-grip-vertical {
+			opacity: 0.3;
+			padding: 0.2rem 0.2rem 0.2rem 0.6rem;
+			cursor: move;
+		}
+
+		> * {
+			margin: 0;
+			padding: 0;
+			z-index: 250;
+		}
+
+		.btn {
+			color: white;
+			padding: 0.2rem 0.65rem;
+			margin: 0;
+			border-radius: 0;
+			&:hover {
+				color: white;
+				background-color: rgba(255, 255, 255, 0.1);
+			}
+		}
+	}
+
+	.widget-inner {
+		width: 100%;
+		height: 100%;
+	}
+
+	> .widget-btns {
+		position: absolute;
+		top: 0;
+		right: 0;
+
+		.btn {
+			transition: color 0.15s ease-in-out;
+			color: transparent;
+		}
+	}
+
+	.panel {
+		height: 100%;
+		box-sizing: border-box;
+	}
+
+	.react-resizable-handle {
+		background-image: none;
+
+		&::after {
+			transition: border-color 0.15s ease-in-out;
+			border-color: transparent;
+		}
+	}
+
+	div.large {
+		font-size: 180%;
+	}
+
+	div.large input {
+		font-size: 100%;
+	}
+
+	div.medium {
+		font-size: 125%;
+	}
+
+	div.medium input {
+		font-size: 100%;
+	}
+}
+
+.grid-full-page .widget-bar-bottom .widget-bar {
+	top: 100%;
+	bottom: unset;
+	border-radius: 0 0 0.25rem 0.25rem;
+}
+
+@supports (backdrop-filter: brightness(70%) contrast(110%) saturate(140%) blur(12px)) {
+	.widget .widget-bar {
+		background: none;
+		backdrop-filter: brightness(calc(100% - var(--panel-opacity) / 1.666666667))
+				contrast(110%) saturate(140%) blur(var(--panel-blur));
+	}
+}
+
+.unlocked .widget {
+	&:hover, &.fake, &:focus-within {
+		border: 2px dashed rgba(15, 15, 15, 0.3);
+		margin: -2px;
+
+		// This is needed to get widget-bar to render above other widgets
+		z-index: 100;
+
+		& > .widget-btns .btn {
+			color: white;
+		}
+
+		.react-resizable-handle::after {
+			border-color: rgba(255, 255, 255, 0.6);
+		}
+
+		.widget-bar {
+			opacity: 0.8;
+			visibility: visible;
+		}
+	}
+
+	.widget-bar {
+		display: flex;
+	}
+
+	.widget-bar:hover, &.fake .widget-bar {
+		.collapsed {
+			display: none;
+		}
+
+		> *:not(.collapsed) {
+			display: block;
+		}
+
+		opacity: 1;
+	}
+}
+
+.react-grid-item.cssTransforms {
+	transition-property: none;
+}
+
+.react-grid-item.react-grid-placeholder {
+	background: #336699;
+}
+
+.react-grid-layout {
+	transition: none;
+}
+
+.react-grid-layout.animated {
+	transition: height 200ms ease;
+}
+
+.animated .react-grid-item.cssTransforms {
+	transition-property: transform;
+}
+
+.widget-grid > .widget {
+	margin: 1em 0;
+}
+
+.widget-image {
+	img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: var(--base-border-radius);
+	}
+
+	.panel > a, .panel-invis > a {
+		display: block;
+		width: 100%;
+		height: 100%;
+
+		&:hover {
+			filter: brightness(1.1);
+		}
+	}
+}
+
+.widget-search {
+	form {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+	}
+
+	input {
+		flex-grow: 1;
+	}
+
+	.icon {
+		margin: 0 -4px 0 1em;
+		color: rgba(255, 255, 255, 0.5);
+	}
+}
+
+.widget-search input, .widget-search form, .widget-notes textarea {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.image-caption {
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	gap: 10px;
+	text-align: center;
+
+	& > a {
+		display: block;
+		flex: 1;
+		overflow: hidden;
+
+		img {
+			display: block;
+			object-fit: contain;
+			height: 100%;
+			width: 100%;
+		}
+	}
+}
+
+.image-carousel-control {
+	height: 100%;
+	color:rgba(255, 255, 255, 0.45);
+
+	padding: 0.4rem;
+	margin: 0;
+	font-size: 2rem;
+	line-height: 1.5;
+	border-radius: 0;
+	background: transparent;
+	border: 1px solid transparent;
+	transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+	cursor: pointer;
+	box-sizing: border-box;
+	text-align: center;
+
+	&[disabled] {
+		color:rgba(255, 255, 255, 0.2);
+		cursor: unset;
+	}
+
+	&:not([disabled]):hover {
+		color: white;
+		text-decoration: none;
+		background-color: rgba(255, 255, 255, 0.1);
+	}
+}
+
+.modal .image-carousel-control {
+	padding: 2rem;
+}
+
+.widget-dailygoal {
+	.btn {
+		visibility: collapse;
+	}
+
+	&:hover .btn, &:focus-within .btn {
+		visibility: visible;
+	}
+}
+
+.widget-text .scrollable {
+	white-space: pre-wrap;
+}
+
+.widget-button > .btn {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.quote {
+	text-align: center;
+	flex-direction: column;
+
+	.quote-text {
+		font-size: 140%;
+	}
+
+	.quote-info {
+		margin-top: 0.75em;
+		font-size: 90%;
+		opacity: 0.8;
+		color: #eee;
+
+		a {
+			display: inline-block;
+			margin-left: 2em;
+			font-size: 90%;
+			color: white;
+			opacity: 0.5;
+		}
+	}
+}
+
+.quote:hover .quote-info a {
+	opacity: 0.65;
+}
+
+.widget-clock {
+	.time, .date {
+		display: block;
+		text-align: center;
+		margin: 0;
+	}
+
+	.time {
+		font-size: 64pt;
+	}
+
+	.date {
+		font-size: 20pt;
+	}
+}

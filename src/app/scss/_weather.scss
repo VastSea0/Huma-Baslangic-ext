@@ -1,0 +1,169 @@
+
+.weather {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	justify-content: space-between;
+
+	* {
+		box-sizing:  border-box;
+	}
+
+	> .row {
+		justify-content: space-between;
+	}
+
+	&.weather-lg {
+		> *:not(:last-child) {
+			margin-bottom: 1em;
+		}
+	}
+
+	&.weather-sm {
+		> *:not(:last-child) {
+			margin-bottom: 0.3em;
+		}
+	}
+
+	&.weather-by > *:first-child {
+		margin-bottom: 0;
+	}
+
+	.location, .weather-credits {
+		font-size: 80%;
+	}
+
+	.weather-credits a {
+		opacity: 0.3;
+		color:rgba(255, 255, 255, 1);
+
+		img {
+			max-height: 1em;
+			filter: GRAYSCALE();
+		}
+
+		&:hover, &:focus {
+			opacity: 0.6;
+
+			img {
+				filter: none;
+			}
+		}
+	}
+
+	.weather-title a {
+		color:#eee;
+	}
+
+	&:not(.weather-by) {
+		.weather-current .icon-container {
+			min-width: 72px;
+		}
+	}
+
+	.weather-current {
+		align-items: center;
+		gap: 0.75rem;
+		justify-content: space-between;
+
+		.icon-container {
+			position: relative;
+
+			.icon {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				right: 0;
+				max-width: 100%;
+				height: 100%;
+				object-fit: contain;
+			}
+		}
+
+		p {
+			margin: 0 0 0.25em 0;
+			font-size: 80%;
+			color:rgba(255, 255, 255, 0.6);
+
+			b {
+				color: rgba(255, 255, 255, 0.9);
+			}
+		}
+
+		.details p:last-child {
+			margin: 0;
+		}
+
+		.pair {
+			margin: 0 0 0.25em;
+
+			p {
+				display: inline-block;
+				margin: 0 0.5rem 0 0;
+			}
+		}
+
+		.uv-low {
+			color: lightgreen;
+		}
+
+		.uv-moderate {
+			color: yellow;
+		}
+
+		.uv-high {
+			color: orange;
+		}
+
+		.uv-veryhigh {
+			color: red;
+		}
+
+		.uv-extreme {
+			color: violet;
+		}
+	}
+
+	.large {
+		font-size: 200%;
+	}
+
+	.forecasts {
+		gap: 0.5em;
+	}
+
+	.forecast {
+		font-size: 80%;
+		color: rgba(255, 255, 255, 0.5);
+
+		.col {
+			font-size: 110%;
+			color: #f0f0f0;
+
+			.low {
+				color: rgba(255, 255, 255, 0.5);
+			}
+		}
+
+		.rain {
+			color: rgba(165, 210, 255, 0.5);
+		}
+
+		.icon {
+			width: 32px;
+			height: 32px;
+		}
+	}
+
+	&.weather-sm .forecast .icon {
+		width: 24px;
+		height: 24px;
+	}
+
+	.icon {
+		display: inline-block;
+		vertical-align: middle;
+		padding: 0;
+		margin: 0;
+	}
+}

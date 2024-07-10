@@ -1,0 +1,131 @@
+image: node:16
+cache:
+  paths:
+    - node_modules
+    - .npm
+stages:
+  - test
+  - package
+  - deploy
+
+variables:
+  NODE_ENV: production
+  ENV: production
+  LC_ALL: C.UTF-8
+
+before_script: &before_script
+  - NODE_ENV=debug npm ci --cache .npm --prefer-offline
+  - cp config.example.json config.json
+  - PATH=$(npm bin):$PATH
+
+test:
+  stage: test
+  dependencies: []
+  interruptible: true
+  script:
+    - npm run trans:check
+    - npm test
+    - npm run lint
+
+ui-chrome:
+  image: cypress/browsers:node16.16.0-chrome107-ff107-edge
+  stage: test
+  dependencies: []
+  interruptible: true
+  script:
+    - unset SENTRY_DSN
+    - npm run build:app
+    - npm run uitest:chrome
+  variables:
+    TARGET: chrome
+    SENTRY_DSN: ""
+
+ui-firefox:
+  image: cypress/browsers:node16.16.0-chrome107-ff107-edge
+  stage: test
+  dependencies: []
+  interruptible: true
+  script:
+    - unset SENTRY_DSN
+    - npm run build:app
+    - npm run uitest:firefox
+  variables:
+    TARGET: firefox
+    SENTRY_DSN: ""
+
+webext:
+  stage: package
+  dependencies: []
+  interruptible: true
+  script:
+    - npm run package:webext
+    - mv web-ext-artifacts/*.zip .
+    - mv dist/webext/app/*.js.map .
+  artifacts:
+    expire_in: 1 week
+    paths:
+      - chrome.zip
+      - firefox.zip
+      - edge.zip
+      - "*.js.map"
+
+pages:
+  stage: deploy
+  dependencies: []
+  interruptible: true
+  script:
+    - npm run build:app
+    - cp -r dist/webext/app public
+  artifacts:
+    paths:
+      - public
+  only:
+    - tags
+
+
+sentry:
+  stage: deploy
+  dependencies: ["webext"]
+  interruptible: false
+  before_script:
+    - *before_script
+    - npm install @sentry/cli
+  script:
+    - mkdir -p dist
+    - mv chrome.zip dist/chrome.zip
+    - pushd dist && unzip chrome.zip && popd
+    - mv *.js.map dist/app/
+    - sentry-cli releases new ${VERSION}
+    - sentry-cli releases set-commits --auto $VERSION
+    - sentry-cli releases deploys ${VERSION} new -e production
+    - sentry-cli releases files ${VERSION} upload-sourcemaps --validate --ext ts --ext js --ext tsx --ext map dist
+    - sentry-cli releases finalize ${VERSION}
+  variables:
+    VERSION: "renewedtab@$CI_COMMIT_TAG"
+    SENTRY_ORG: "renewedtab"
+    SENTRY_PROJECT: "renewedtab"
+  only:
+    - tags
+
+chrome:
+  stage: deploy
+  dependencies: ["webext"]
+  interruptible: false
+  script:
+    - npm run upload:chrome chrome.zip
+  only:
+    - tags
+
+
+# firefox:
+#   stage: deploy
+#   dependencies: ["webext"]
+#   interruptible: false
+#   script:
+#     - VERSION=${CI_COMMIT_REF_NAME:1}
+#     - JWT=$(node utils/make_jwt.js $FIREFOX_JWT_ISSUER $FIREFOX_JWT_SECRET)
+#     - >
+#       curl "https://addons.mozilla.org/api/v4/addons/${FIREFOX_EXTENSION_ID}/versions/${VERSION}/" \
+#         -g -XPUT --form "upload=@firefox.zip" -H "Authorization: JWT ${JWT}"
+#   only:
+#     - tags

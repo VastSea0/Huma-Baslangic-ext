@@ -1,0 +1,1321 @@
+{
+    "+GMx80": {
+        "message": "找不到该位置",
+        "description": "Location form field: error"
+    },
+    "/Mpu8A": {
+        "message": "拉伸网格以覆盖整个页面。",
+        "description": "Widget grid: form label 1 for grid full width"
+    },
+    "2O5Rq1": {
+        "message": "晚上好，{name}",
+        "description": "Greeting widget: greeting, from 4pm to 9pm"
+    },
+    "3vh5vd": {
+        "message": "不显示任何内容，用于调整布局",
+        "description": "Invisible widget description"
+    },
+    "9+2gJZ": {
+        "message": "这个小部件需要在浏览器扩展里使用。"
+    },
+    "AgU+/t": {
+        "message": "由 RocketLaunch.Live 提供的即将进行火箭发射的清单",
+        "description": "SpaceFlights widget description"
+    },
+    "Ay1sfO": {
+        "message": "控制从多少张最新的图片中随机选择。设置为1时将总是选择最新的图像",
+        "description": "Feed background mode: form field hint (Limit images)"
+    },
+    "D0+wcK": {
+        "message": "显示一个图像，可选择给其添加一个超链接",
+        "description": "Image widget description"
+    },
+    "GXkv/F": {
+        "message": "请选择一个位置",
+        "description": "Location form field: prompt"
+    },
+    "GcxpZV": {
+        "message": "日期格式",
+        "description": "Clock widget: date style form field label"
+    },
+    "JzanJ8": {
+        "message": "网格列",
+        "description": "Widget grid: form label for grid columns"
+    },
+    "KdIFGg": {
+        "message": "搜索 URL 中缺少 '{query}'。例：https://google.com/search/?q='{query}'",
+        "description": "Search widget: error, missing query variable"
+    },
+    "+oSH/F": {
+        "message": "显示你当前精确的年龄",
+        "description": "Age widget description"
+    },
+    "+sI+Oh": {
+        "message": "显示每小时预报",
+        "description": "Weather widget: form field label"
+    },
+    "/dtDqf": {
+        "message": "笔记",
+        "description": "Notes Widget"
+    },
+    "0PsF7Z": {
+        "message": "你确定要永久删除这个小部件吗？",
+        "description": "Delete widget modal message"
+    },
+    "0feb3b": {
+        "message": "可选的，给图像添加超链接",
+        "description": "Image widget: Form field hint (Link)"
+    },
+    "0hxZWu": {
+        "message": "图标",
+        "description": "Form field label"
+    },
+    "0l+aD2": {
+        "message": "每日目标和励志名言",
+        "description": "Preset: focus description"
+    },
+    "1s5GYl": {
+        "message": "不透明度",
+        "description": "Form field label"
+    },
+    "2/2yg+": {
+        "message": "添加"
+    },
+    "27lljH": {
+        "message": "你已经<b>{age}</b>岁了",
+        "description": "Age widget text"
+    },
+    "2AUlDo": {
+        "message": "睡个好觉，{name}",
+        "description": "Greeting widget: greeting, from 9pm to midnight"
+    },
+    "languageName": {
+        "message": "简体中文",
+        "description": "The name of the current language, to be used in the settings dialog"
+    },
+    "2efE5y": {
+        "message": "问候语",
+        "description": "Greeting Widget"
+    },
+    "2vJWTd": {
+        "message": "图片",
+        "description": "Background credits title placeholder"
+    },
+    "3/EBw0": {
+        "message": "网站",
+        "description": "Hüma Başlangıç website"
+    },
+    "3Nw7b0": {
+        "message": "搜索引擎名称",
+        "description": "Search widget: form field label"
+    },
+    "3UG6ds": {
+        "message": "用你最喜爱的搜索引擎搜索小部件或网站",
+        "description": "Search widget description"
+    },
+    "3ZfhWo": {
+        "message": "访问{host}需要许可。编辑这个小组件来授予它权限。"
+    },
+    "3aaibf": {
+        "message": "添加小部件"
+    },
+    "3vjl5Q": {
+        "message": "显示/隐藏",
+        "description": "Feed widget filter allow label"
+    },
+    "47FYwb": {
+        "message": "取消"
+    },
+    "4F+2K3": {
+        "message": "来自于Unsplash collection的随机图片",
+        "description": "Backgroud mode description"
+    },
+    "4UpnpD": {
+        "message": "图像被保存于您的本地浏览器，永远不会被上传",
+        "description": "Form field hint (Image)"
+    },
+    "/4k9ry": {
+        "message": "紫外线指数<b>甚高</b>",
+        "description": "Very High UV risk"
+    },
+    "+TYXj6": {
+        "message": "今天，{time}",
+        "description": "SpaceFlights widget: today and time"
+    },
+    "4cMia7": {
+        "message": "显示一张新的照片",
+        "description": "Backgroud settings: form field label (how often background images change)"
+    },
+    "4dzBeG": {
+        "message": "来自",
+        "description": "Currencies widget: form field label"
+    },
+    "4syC1B": {
+        "message": "帮助和请求"
+    },
+    "5DCxT+": {
+        "message": "温度单位",
+        "description": "Weather widget: form field label"
+    },
+    "5mVcg9": {
+        "message": "自定义CSS",
+        "description": "Theme settings: form field label"
+    },
+    "6MDM6D": {
+        "message": "引用名言",
+        "description": "Quotes Widget"
+    },
+    "6pdO6i": {
+        "message": "无法获取书签",
+        "description": "Bookmarks widget: error message"
+    },
+    "7OH6mh": {
+        "message": "图像",
+        "description": "Image Widget"
+    },
+    "7wOM6+": {
+        "message": "年进度",
+        "description": "Year Progress widget"
+    },
+    "8HmiSe": {
+        "message": "请指定一个来源",
+        "description": "Feed widget: no sources error message"
+    },
+    "8J0Bhj": {
+        "message": "欢迎来到 <a>Hüma Başlangıç</a>：一个可自定义的新标签页，拥有丰富的小部件和各种精美的背景图片供您选择。"
+    },
+    "8xVVb5": {
+        "message": "主要颜色",
+        "description": "Theme settings: form field label"
+    },
+    "Abtyj/": {
+        "message": "图片大于2MB（{dataSizeMB}MB）。为了更快的加载，请使用存储空间占用较小的图片。",
+        "description": "Image upload error message"
+    },
+    "Ack5ID": {
+        "message": "找不到结果",
+        "description": "A search has returned no results here (note: there may be multiple places being searched)"
+    },
+    "B0kbsm": {
+        "message": "订阅",
+        "description": "Unsplash background mode"
+    },
+    "BJYZgx": {
+        "message": "使用移动手势（<move></move>）和大小调整手势（<resize></resize>）。"
+    },
+    "BiPNnl": {
+        "message": "风速单位",
+        "description": "Weather widget: form field label"
+    },
+    "Bl74xq": {
+        "message": "一个链接按钮",
+        "description": "Button widget description"
+    },
+    "CNpJaZ": {
+        "message": "焦点",
+        "description": "Preset: focus"
+    },
+    "CmRs9p": {
+        "message": "搜索",
+        "description": "Search Widget"
+    },
+    "Cq4JWx": {
+        "message": "天气、新闻等",
+        "description": "Preset: grid description"
+    },
+    "CshCZY": {
+        "message": "背景类型"
+    },
+    "D3idYv": {
+        "message": "设置"
+    },
+    "Ddd3ZY": {
+        "message": "到",
+        "description": "Currencies widget: form field label"
+    },
+    "Dk7Khi": {
+        "message": "华氏度",
+        "description": "Weather widget: Fahrenheit unit"
+    },
+    "E4nLwR": {
+        "message": "每天",
+        "description": "Background expiry dropdown"
+    },
+    "F1A/8i": {
+        "message": "来源",
+        "description": "Feed widget: form field label"
+    },
+    "FqCn+F": {
+        "message": "早上好，{name}",
+        "description": "Greeting widget: greeting, from midnight to noon"
+    },
+    "G6WG/N": {
+        "message": "占位符",
+        "description": "Invisible Widget"
+    },
+    "GSox4d": {
+        "message": "安装在您电脑上的任何字体的名称",
+        "description": "Theme settings: form field hint (Font)"
+    },
+    "GWRKVT": {
+        "message": "文本颜色",
+        "description": "Form field label"
+    },
+    "Go7At+": {
+        "message": "周六",
+        "description": "Short weekday name (Saturday)"
+    },
+    "GqPEp+": {
+        "message": "需要使用浏览器扩展版本"
+    },
+    "H00a0q": {
+        "message": "留空以生成标题",
+        "description": "Links widget, form field hint (Link URL)"
+    },
+    "HEvlTB": {
+        "message": "显示选项",
+        "description": "Weather widget: display subform title"
+    },
+    "HPLtg4": {
+        "message": "未知货币 “{currency}”",
+        "description": "Currencies widget: error"
+    },
+    "I48yxw": {
+        "message": "隐私",
+        "description": "General settings: privacy"
+    },
+    "IbCXY9": {
+        "message": "标准（{example}）",
+        "description": "Clock widget: date style type"
+    },
+    "IqLwUL": {
+        "message": "网格间距",
+        "description": "Widget grid: form label for grid spacing"
+    },
+    "J91edI": {
+        "message": "导入/导出",
+        "description": "Settings tab"
+    },
+    "JN/uvd": {
+        "message": "紫外线指数<b>中</b>",
+        "description": "Moderate UV risk"
+    },
+    "JihbEV": {
+        "message": "CSS文件",
+        "description": "Theme settings: link to CSS docs"
+    },
+    "JvOSvX": {
+        "message": "背景",
+        "description": "Settings tab"
+    },
+    "K3r6DQ": {
+        "message": "删除"
+    },
+    "K8s82y": {
+        "message": "出生日期",
+        "description": "Age widget: form field label"
+    },
+    "KhM0zv": {
+        "message": "引用的内容来自于外部资源，Hüma Başlangıç 未对此进行审查。",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "hCBQrY": {
+        "message": "体感温度 <b>{temp}°</b>"
+    },
+    "hUIQ7h": {
+        "message": "亮度",
+        "description": "Backgroud settings: form field label"
+    },
+    "tyq8NB": {
+        "message": "天气",
+        "description": "Weather Widget"
+    },
+    "wEQDC6": {
+        "message": "编辑"
+    },
+    "yY7Rve": {
+        "message": "隐藏",
+        "description": "Feed widget: filter show checkbox label"
+    },
+    "y1Z3or": {
+        "message": "语言"
+    },
+    "ywSKRt": {
+        "message": "自定义 HTML",
+        "description": "HTML widget description"
+    },
+    "z7UTSa": {
+        "message": "关于 Hüma Başlangıç"
+    },
+    "WKiXhX": {
+        "message": "颜色",
+        "description": "Color background mode"
+    },
+    "YQhLKn": {
+        "message": "每小时",
+        "description": "Background expiry dropdown"
+    },
+    "adRrk3": {
+        "message": "重置所有",
+        "description": "Import / export settings, reset"
+    },
+    "d7dHsn": {
+        "message": "每 15 分钟",
+        "description": "Background expiry dropdown"
+    },
+    "Lxc1x4": {
+        "message": "时钟",
+        "description": "Clock Widget"
+    },
+    "M0PwXU": {
+        "message": "风速（{unit}）",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "M6lR5V": {
+        "message": "小部件网格中的列数。你可以在当前的窗口宽度（{res}px）中容纳{max}个列。",
+        "description": "Widget grid: form hint for grid columns"
+    },
+    "Mihrhf": {
+        "message": "无",
+        "description": "Clock widget: date style type, not shown"
+    },
+    "OBJta4": {
+        "message": "你可以通过点击小部件上的名称来改变它",
+        "description": "Greeting widget: edit modal hint"
+    },
+    "OQHLB5": {
+        "message": "颜色",
+        "description": "Form field label"
+    },
+    "PBMGxw": {
+        "message": "限制图像",
+        "description": "Feed background mode: form field label"
+    },
+    "TIEfOV": {
+        "message": "如果一篇文章至少符合一个“显示”过滤器（如果有的话），并且没有“隐藏”过滤器，它就会被显示。",
+        "description": "Feed widget: form field hint (Filters)"
+    },
+    "VkW6D1": {
+        "message": "center, top, or bottom (中间，顶部或底部)",
+        "description": "Backgroud settings: form field hint (Position)"
+    },
+    "VxE3S8": {
+        "message": "这将自动发送网址给 Hüma Başlangıç 的开发者。然后他们可以选择将其添加到对所有用户的建议中。",
+        "description": "Host URL field: help text for suggest URL button"
+    },
+    "Kzo9ZH": {
+        "message": "图像链接",
+        "description": "Form field label"
+    },
+    "LfHpBk": {
+        "message": "字体缩放",
+        "description": "Theme settings: form field label"
+    },
+    "L6nTur": {
+        "message": "选择一个起始点",
+        "description": "Onboarding: presets title"
+    },
+    "KsX2fE": {
+        "message": "<b>{name}</b>在{latitude}由{longitude}"
+    },
+    "KyDwm3": {
+        "message": "显示最常访问的网站",
+        "description": "Top Sites widget: description"
+    },
+    "MN3prI": {
+        "message": "将文件夹作为章节包括在内",
+        "description": "Bookmarks widget: form field label"
+    },
+    "MiIvsP": {
+        "message": "你可以直观地使用控件在网格上添加、移动、调整大小和配置小部件。"
+    },
+    "N/7Stk": {
+        "message": "由 <a>rubenwardy</a> 建立。"
+    },
+    "O8mt7g": {
+        "message": "数字（{example}）",
+        "description": "Clock widget: date style type"
+    },
+    "OPzczE": {
+        "message": "缩略语（{example}）",
+        "description": "Clock widget: date style type"
+    },
+    "PM6qZ7": {
+        "message": "显示秒"
+    },
+    "PYJFvz": {
+        "message": "分类",
+        "description": "Form field label, list of categories. Used by Quotes widget"
+    },
+    "Q1mwPp": {
+        "message": "考虑<a>贡献或添加你的语言</a>。"
+    },
+    "QBZZBG": {
+        "message": "请注意：这是一个实验性的功能，CSS选择器在未来的版本中可能会失效。",
+        "description": "Theme settings: form field hint (Custom CSS)"
+    },
+    "QV6YlB": {
+        "message": "汇率",
+        "description": "Currencies widget: form field label"
+    },
+    "QcExtH": {
+        "message": "隐私政策",
+        "description": "General settings: privacy policy button"
+    },
+    "QqE4JC": {
+        "message": "缺少订阅源的链接。"
+    },
+    "RCe+DS": {
+        "message": "拖放小部件"
+    },
+    "RZqASt": {
+        "message": "单一颜色",
+        "description": "Backgroud mode description"
+    },
+    "RhyKzC": {
+        "message": "精选",
+        "description": "Curated background mode"
+    },
+    "S3njcM": {
+        "message": "IFrame 嵌入网页",
+        "description": "IFrame Widget"
+    },
+    "S6nfAm": {
+        "message": "湿度 (%)",
+        "description": "Weather widget: humidity tooltip"
+    },
+    "SAo61B": {
+        "message": "书签",
+        "description": "Bookmarks Widget"
+    },
+    "SG4UJU": {
+        "message": "按钮",
+        "description": "Button Widget"
+    },
+    "ShQneX": {
+        "message": "文本",
+        "description": "Form field label"
+    },
+    "T/wBPw": {
+        "message": "移除{type}"
+    },
+    "T4VxQN": {
+        "message": "加载中…"
+    },
+    "TUnCKb": {
+        "message": "文本",
+        "description": "Text Widget"
+    },
+    "TkgCJ9": {
+        "message": "你可以通过下面的链接获得帮助或请求添加新的功能。"
+    },
+    "U2Qnh7": {
+        "message": "图像",
+        "description": "Image background mode"
+    },
+    "Upkn1Q": {
+        "message": "紫外线指数<b>高</b>",
+        "description": "High UV risk"
+    },
+    "V1EIOe": {
+        "message": "显示一个网页",
+        "description": "IFrame widget description"
+    },
+    "VPDVTF": {
+        "message": "这里什么都没有",
+        "description": "Shown when array table form field has no rows"
+    },
+    "Vckd1G": {
+        "message": "周一",
+        "description": "Short weekday name (Monday)"
+    },
+    "VjDvbL": {
+        "message": "网址",
+        "description": "Form field label"
+    },
+    "W3zKGr": {
+        "message": "千米每小时（kph）",
+        "description": "Weather widget: Speed unit"
+    },
+    "WF5DKA": {
+        "message": "年龄",
+        "description": "Age widget"
+    },
+    "WZjKFf": {
+        "message": "警告：如果您在小部件的设置中保存了个人数据，在这导出的配置文件也会包含您的个人数据。"
+    },
+    "gSjZfg": {
+        "message": "链接",
+        "description": "Links Widget"
+    },
+    "h/ftND": {
+        "message": "选择一个文件"
+    },
+    "hWimZf": {
+        "message": "启用小部件搜索",
+        "description": "Search widget: form field label, enable filtering widgets"
+    },
+    "hktZIl": {
+        "message": "显示时间"
+    },
+    "iFxzUm": {
+        "message": "喜欢",
+        "description": "Background credits vote"
+    },
+    "iH2AHA": {
+        "message": "<a>开源</a>，基于GPLv3+协议。"
+    },
+    "irdBm2": {
+        "message": "主题",
+        "description": "Settings tab"
+    },
+    "jSHZmX": {
+        "message": "追踪待办事项的清单",
+        "description": "Todo List widget: description"
+    },
+    "kAEQyV": {
+        "message": "确定"
+    },
+    "kF06lD": {
+        "message": "延伸的（{example}）",
+        "description": "Clock widget: date style type"
+    },
+    "ktmuOE": {
+        "message": "留空以使用订阅源的标题",
+        "description": "Feed widget: form field hint (Title)"
+    },
+    "ku7Ot7": {
+        "message": "亮度：浅",
+        "description": "Backgroud settings: form field label"
+    },
+    "kueLs9": {
+        "message": "链接",
+        "description": "Links widget: form field label"
+    },
+    "l8+Uwz": {
+        "message": "没有可以编辑的。",
+        "description": "Form has no fields"
+    },
+    "lUdRdE": {
+        "message": "错误：{msg}"
+    },
+    "lYJGY5": {
+        "message": "图像网址",
+        "description": "Image URL background mode"
+    },
+    "lkJAu6": {
+        "message": "Unsplash",
+        "description": "Unsplash background mode"
+    },
+    "lwUV0r": {
+        "message": "你可以通过点击小部件上的目标来改变它",
+        "description": "Daily Goal widget: edit modal hint"
+    },
+    "mL3MOs": {
+        "message": "英里每小时（mph）",
+        "description": "Weather widget: Speed unit"
+    },
+    "XYIyWM": {
+        "message": "你应该将“网格列”增加到至少{cols}，以充分利用空间。",
+        "description": "Widget grid: form label 2 for grid full width"
+    },
+    "mv9TrH": {
+        "message": "HTML",
+        "description": "HTML Widget"
+    },
+    "mw6Uh+": {
+        "message": "显示每日预报",
+        "description": "Weather widget: form field label"
+    },
+    "cSF2y1": {
+        "message": "显示你的书签",
+        "description": "Bookmarks widget description"
+    },
+    "gAZqVl": {
+        "message": "你可以稍后添加（<add></add>）或移除（<remove></remove>）小部件，或根据需求更改设置（<cog></cog>）。",
+        "description": "Onboarding: preset hint"
+    },
+    "gEYo49": {
+        "message": "位置",
+        "description": "Backgroud settings: form field label"
+    },
+    "gHzZEt": {
+        "message": "只有一个时钟和一个搜索栏",
+        "description": "Preset: focus description"
+    },
+    "gQAsym": {
+        "message": "请注意，其他小部件在拖动时不会移开。",
+        "description": "Widget grid: form label 3 for grid full width"
+    },
+    "lY73np": {
+        "message": "显示面板背景",
+        "description": "Widget styling, checkbox"
+    },
+    "mSg5KK": {
+        "message": "亮度：深",
+        "description": "Backgroud settings: form field label"
+    },
+    "Wi0G88": {
+        "message": "关于和帮助",
+        "description": "Settings tab"
+    },
+    "X18x9m": {
+        "message": "通用",
+        "description": "Settings tab"
+    },
+    "X5OoHJ": {
+        "message": "你今天的目标是什么？",
+        "description": "Daily Goal prompt"
+    },
+    "XV4mnl": {
+        "message": "根据你的设置，同一张照片可能会被选中",
+        "description": "Background settings: form field hint (Show a new photo)"
+    },
+    "XrQEPN": {
+        "message": "位置",
+        "description": "Form field label"
+    },
+    "XsTD4Q": {
+        "message": "待办清单",
+        "description": "Todo List Widget"
+    },
+    "YS3jnS": {
+        "message": "周五",
+        "description": "Short weekday name (Friday)"
+    },
+    "YS5zRT": {
+        "message": "通过{name}搜索",
+        "description": "Search widget: searchbox placeholder text, when search engine name is known"
+    },
+    "YYoBQn": {
+        "message": "面板模糊半径",
+        "description": "Theme settings: form field label"
+    },
+    "YuNOET": {
+        "message": "HTML",
+        "description": "HTML widget: form field label"
+    },
+    "Z2/hH0": {
+        "message": "图像：{filename}"
+    },
+    "Z79HMN": {
+        "message": "随机的精选背景图片",
+        "description": "Backgroud mode description"
+    },
+    "ZRWjTk": {
+        "message": "使用浏览器的默认搜索引擎",
+        "description": "Search widget: form field label"
+    },
+    "ZUZeuR": {
+        "message": "显示一条信息",
+        "description": "Text widget description"
+    },
+    "ZZIlU9": {
+        "message": "每日目标",
+        "description": "Daily Goal Widget"
+    },
+    "ZeZlbR": {
+        "message": "设置按钮着色的不透明度",
+        "description": "Button widget: form field hint (Opacity)"
+    },
+    "a09vzt": {
+        "message": "HTTP请求失败，{code} {msg}。"
+    },
+    "a0L2KE": {
+        "message": "建议包含国名或首字母。"
+    },
+    "aXrD3p": {
+        "message": "货币",
+        "description": "Currencies widget"
+    },
+    "aaxFkJ": {
+        "message": "创建一个新的待办项目",
+        "description": "Todo List widget: prompt"
+    },
+    "abwneZ": {
+        "message": "米每秒（m/s）",
+        "description": "Weather widget: Speed unit"
+    },
+    "amHvKE": {
+        "message": "在这里输入笔记",
+        "description": "Notes widget: prompt"
+    },
+    "ao/AFQ": {
+        "message": "提醒你每天的目标",
+        "description": "Daily Goal widget description"
+    },
+    "as6rZ1": {
+        "message": "启用崩溃报告（由Sentry提供）",
+        "description": "General settings: enable sentry"
+    },
+    "b2Rs2F": {
+        "message": "改变浅色图像的亮度",
+        "description": "Backgroud settings: form field label (Brightness: Light)"
+    },
+    "bQFsdR": {
+        "message": "授权访问{host}的权限"
+    },
+    "btOI+Z": {
+        "message": "新标签页"
+    },
+    "cR7nCG": {
+        "message": "恢复默认主题设置"
+    },
+    "ckvzIb": {
+        "message": "紫外线指数<b>低</b>",
+        "description": "Low UV risk"
+    },
+    "dGu5JQ": {
+        "message": "订阅源",
+        "description": "Feed Widget"
+    },
+    "dIwFS5": {
+        "message": "选择一个图像",
+        "description": "Form field label"
+    },
+    "eXB4qM": {
+        "message": "周三",
+        "description": "Short weekday name (Wednesday)"
+    },
+    "ekIjqh": {
+        "message": "允许访问所有网站"
+    },
+    "ekW/+6": {
+        "message": "无法连接到互联网"
+    },
+    "fW8Xpd": {
+        "message": "需要位置。请点击编辑来添加位置信息。",
+        "description": "Weather widget: location needed error"
+    },
+    "fWK68w": {
+        "message": "字体",
+        "description": "Theme settings: form field label"
+    },
+    "frEJEM": {
+        "message": "周四",
+        "description": "Short weekday name (Thursday)"
+    },
+    "fz43UJ": {
+        "message": "捐赠",
+        "description": "Hüma Başlangıç donation link"
+    },
+    "n0cZ3b": {
+        "message": "由{host}提供。",
+        "description": "Credit to a website"
+    },
+    "nF7bWj": {
+        "message": "国际标准化组织（{example}）",
+        "description": "Clock widget: date style type"
+    },
+    "nGSwtl": {
+        "message": "搜索",
+        "description": "Search widget: searchbox placeholder text, when search engine name is unknown"
+    },
+    "nHw5cV": {
+        "message": "点击项目以编辑它们。",
+        "description": "Todo List widget: edit modal hint"
+    },
+    "nnaWVi": {
+        "message": "摄氏度",
+        "description": "Weather widget: Celsius unit"
+    },
+    "o2uuHu": {
+        "message": "12小时制"
+    },
+    "o9vGxx": {
+        "message": "在新标签页中打开",
+        "description": "Form field label"
+    },
+    "oBl48o": {
+        "message": "你确定要重置所有数据吗？",
+        "description": "Import / export settings, reset confirmation"
+    },
+    "oDog89": {
+        "message": "一个用于笔记的可编辑的文本区域",
+        "description": "Notes widget description"
+    },
+    "oGS5TE": {
+        "message": "下午好，{name}",
+        "description": "Greeting widget: greeting, from noon to 4pm"
+    },
+    "oJnbwn": {
+        "message": "姓名",
+        "description": "Greeting widget: name prompt"
+    },
+    "oRui+E": {
+        "message": "您对我们提供的 Hüma Başlangıç 是否满意？满意的话欢迎给我们捐赠，这将帮助我们收回成本并支持我们今后更好的发展。"
+    },
+    "ofl4Ui": {
+        "message": "搜索",
+        "description": "Location form field: search"
+    },
+    "olBVPS": {
+        "message": "导出",
+        "description": "Import / export settings, export"
+    },
+    "or/+Da": {
+        "message": "样式",
+        "description": "Subheading for per-widget styling properties"
+    },
+    "p8GKKf": {
+        "message": "最常访问的网站",
+        "description": "Top Sites Widget"
+    },
+    "pG7wIz": {
+        "message": "显示汇率，支持外汇货币和加密货币（例如比特币等）",
+        "description": "Currencies widget description"
+    },
+    "pHo6u+": {
+        "message": "订阅源中没有发现图像",
+        "description": "Web Comic widget: no images found error"
+    },
+    "pVrtrA": {
+        "message": "使用自定义图像",
+        "description": "Backgroud mode description"
+    },
+    "pqIuCa": {
+        "message": "显示当前天气",
+        "description": "Weather widget: form field label"
+    },
+    "pbEMNj": {
+        "message": "上一个",
+        "description": "Onboarding page: previous button"
+    },
+    "q4caWd": {
+        "message": "模糊半径",
+        "description": "Backgroud settings: form field label"
+    },
+    "q6/aVX": {
+        "message": "你可以用搜索小部件来过滤这个小部件。",
+        "description": "Edit hint shown on searchable widgets"
+    },
+    "qCsSqt": {
+        "message": "面板背景暗度",
+        "description": "Theme settings: form field label"
+    },
+    "qYVXqA": {
+        "message": "{mode}选项",
+        "description": "Background mode options"
+    },
+    "qoEZRi": {
+        "message": "Unsplash 集合",
+        "description": "Backgroud settings: form field label"
+    },
+    "qzlLb3": {
+        "message": "周日",
+        "description": "Short weekday name (Sunday)"
+    },
+    "rAuRqW": {
+        "message": "翻译由社区提供。"
+    },
+    "rb3Zy8": {
+        "message": "筛选文章",
+        "description": "Feed widget: form field label"
+    },
+    "sIC2UV": {
+        "message": "显示文本",
+        "description": "Widget styling, checkbox for showing text on eg: Links"
+    },
+    "sPl3nI": {
+        "message": "标题",
+        "description": "Form field label"
+    },
+    "sYvWWw": {
+        "message": "可选的，图片的网址（建议使用18px）",
+        "description": "Links widget, form field hint (Icon)"
+    },
+    "uRYRJh": {
+        "message": "编辑{type}"
+    },
+    "ubO4zt": {
+        "message": "网络漫画",
+        "description": "Web Comic Widget"
+    },
+    "uv1bYR": {
+        "message": "周二",
+        "description": "Short weekday name (Tuesday)"
+    },
+    "uzT59w": {
+        "message": "网格",
+        "description": "Preset: Grid"
+    },
+    "v9UIPJ": {
+        "message": "日出 - 日落",
+        "description": "Weather widget: wind speed tooltip"
+    },
+    "vlumg9": {
+        "message": "搜索小部件...",
+        "description": "Create Widgets modal: search widgets placeholder"
+    },
+    "wogY8a": {
+        "message": "创建小部件"
+    },
+    "wr0l0L": {
+        "message": "来自网址链接的图像",
+        "description": "Backgroud mode description"
+    },
+    "wwQ6Va": {
+        "message": "选择位置",
+        "description": "Location field"
+    },
+    "x59fh0": {
+        "message": "太空飞行",
+        "description": "Space Flights Widget"
+    },
+    "x7WADS": {
+        "message": "全网页网格",
+        "description": "Widget grid: form label for grid full width"
+    },
+    "translation_credits": {
+        "message": "由 Ganache72，wasdjkl，rubenwardy和 yhdsl 翻译为简体中文",
+        "description": "Credit the translators: LANGUAGE translation by YOUR NAME"
+    },
+    "xR87uK": {
+        "message": "小部件之间的间距，单位是像素。",
+        "description": "Widget grid: form hint for grid spacing"
+    },
+    "xtOPHp": {
+        "message": "链接网址",
+        "description": "Form field label"
+    },
+    "xtl3ls": {
+        "message": "启用自定义图标",
+        "description": "Links widget: form field label"
+    },
+    "xvXMaZ": {
+        "message": "向你展示问候语",
+        "description": "Greeting widget description"
+    },
+    "y8o0oA": {
+        "message": "当前和预测的天气",
+        "description": "Weather widget description"
+    },
+    "yT43pK": {
+        "message": "使用网站上的图标（网站图标）",
+        "description": "Form field label"
+    },
+    "yUJ5MA": {
+        "message": "目标",
+        "description": "Preset: goals"
+    },
+    "yfgoZf": {
+        "message": "Discord / Matrix 频道"
+    },
+    "ykNa5O": {
+        "message": "感谢 Font-Awesome 提供的图标，React 提供的用户界面，以及 WebPack 提供的构建技术。"
+    },
+    "yvWbz6": {
+        "message": "下一个",
+        "description": "Onboarding page: next button"
+    },
+    "zEj0dg": {
+        "message": "以进度条的形式显示今年的进度",
+        "description": "Age widget description"
+    },
+    "zKofmb": {
+        "message": "集合编号。可以在地址栏里找到，例如：42576559",
+        "description": "Backgroud settings: form field hint (Unsplash Collection)"
+    },
+    "zaQRTm": {
+        "message": "紫外线指数<b>极高</b>",
+        "description": "Extreme UV risk"
+    },
+    "zfsplE": {
+        "message": "不再显示",
+        "description": "Background credits vote"
+    },
+    "ziyAdj": {
+        "message": "导入",
+        "description": "Import / export settings, import"
+    },
+    "zo4ZQa": {
+        "message": "显示",
+        "description": "Feed widget: filter allow checkbox label"
+    },
+    "zsdRww": {
+        "message": "用于主要的按钮和链接",
+        "description": "Theme settings: form field hint (Primary Color)"
+    },
+    "qEk9AJ": {
+        "message": "更改较暗图像的亮度",
+        "description": "Backgroud settings: form field label (Brightness: Dark)"
+    },
+    "vVnypL": {
+        "message": "随机显示一个带有分类的名言",
+        "description": "Quotes Widget description"
+    },
+    "+PNw8j": {
+        "message": "即使你隐藏了一些信息，你仍可以通过将鼠标悬停在天和小时上来查看这些信息",
+        "description": "Weather widget: form field hint (Display Options)"
+    },
+    "PHwOzi": {
+        "message": "感谢 Unsplash，AccuWeather 和 RocketLaunch.Live 提供的 API 服务。"
+    },
+    "eKCjBm": {
+        "message": "降水概率",
+        "description": "Weather widget: change of precipitation (rain, etc)"
+    },
+    "5640CU": {
+        "message": "当前：显示降水概率",
+        "description": "Weather widget: form field label"
+    },
+    "AuSjzq": {
+        "message": "当前：显示紫外线风险",
+        "description": "Weather widget: form field label"
+    },
+    "B1pyj1": {
+        "message": "当前：显示体感温度",
+        "description": "Weather widget: form field label"
+    },
+    "BnmONl": {
+        "message": "当前：显示日出/日落",
+        "description": "Weather widget: form field label"
+    },
+    "HksGis": {
+        "message": "当前：显示风速",
+        "description": "Weather widget: form field label"
+    },
+    "R4cyIr": {
+        "message": "当前：显示湿度",
+        "description": "Weather widget: form field label"
+    },
+    "2j5LN5": {
+        "message": "建议将 URL 添加到默认建议",
+        "description": "Host URL field: button for users to suggest new URLs for RSS/JSONFeed/Atom feeds"
+    },
+    "appDescription": {
+        "message": "一个可自定义的新标签页，拥有丰富的小部件和各种精美的背景图片供您选择",
+        "description": "App description"
+    },
+    "appName": {
+        "message": "Hüma Başlangıç",
+        "description": "The name of the app"
+    },
+    "5mfAB9": {
+        "message": "Atom，JSON和RSS订阅源的URL",
+        "description": "Form field hint (Feed URL)"
+    },
+    "+g7L/A": {
+        "message": "显示来自Atom，JSON和RSS订阅的信息 - 用于追踪新闻，网站和博客的最新消息",
+        "description": "Feed widget description"
+    },
+    "2s4stS": {
+        "message": "欢迎使用<a>Hüma Başlangıç</a>",
+        "description": "Onboarding modal: title"
+    },
+    "/aA+Xf": {
+        "message": "显示图片",
+        "description": "Feed widget: form field label"
+    },
+    "/Mx09O": {
+        "message": "实验性的。由于缺少图片信息，这可能不适用于所有的订阅源。此外图片可能过大，可能需要一定的时间来加载。",
+        "description": "Feed widget: form field hint (Show Images)"
+    },
+    "Lnvfz8": {
+        "message": "无法加载 {source}: {error}",
+        "description": "Feed error message"
+    },
+    "KjUKUz": {
+        "message": "渐变色彩",
+        "description": "Backgroud mode description"
+    },
+    "NjoFru": {
+        "message": "来自Atom，JSONFeed或RSS订阅源的随机图像",
+        "description": "Backgroud mode description"
+    },
+    "zXtUcf": {
+        "message": "不必担心，稍后您仍可以解锁"
+    },
+    "CN0kVN": {
+        "message": "部件网格",
+        "description": "Settings tab"
+    },
+    "Ekvvsi": {
+        "message": "书签栏",
+        "description": "Chrome-only, a bar for bookmarks at the top"
+    },
+    "EscvnU": {
+        "message": "图标",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "GpfSpy": {
+        "message": "显示书签栏",
+        "description": "General settings: bookmarks bar"
+    },
+    "R1jLoC": {
+        "message": "垂直",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "IKpSw0": {
+        "message": "水平",
+        "description": "List box style (ie: list/bookmark widgets)"
+    },
+    "RVGNBh": {
+        "message": "当你完成编辑后，点击<button></button>按钮将布局设为只读。"
+    },
+    "5MMUNJ": {
+        "message": "这是一个<b>实验性的</b>选项，并且可能会很难操控。",
+        "description": "Widget grid: form label 4 for grid full width"
+    },
+    "6wEkCM": {
+        "message": "或者，你可以创建一个书签部件进行更加细致的调整。",
+        "description": "General settings: bookmarks bar"
+    },
+    "dOlhtQ": {
+        "message": "希望仅在新标签页显示书签栏，你可以右击 \"地址栏 > 书签栏 > 仅在新标签页显示\"。<a>显示更多</a>",
+        "description": "General settings: Help for Firefox bookmarks bar"
+    },
+    "gS3mti": {
+        "message": "列表框形状",
+        "description": "Form field label"
+    },
+    "gXcVyS": {
+        "message": "完成编辑",
+        "description": "Edit bar button to make the grid readonly"
+    },
+    "j0VHNa": {
+        "message": "授予访问书签以及从读取网站图标的权限"
+    },
+    "r8bU6m": {
+        "message": "在页面最顶端显示一个书签栏。",
+        "description": "General settings: bookmarks bar"
+    },
+    "sFyAdH": {
+        "message": "此外：<import></import>"
+    },
+    "sX3mXR": {
+        "message": "隐藏",
+        "description": "Hide"
+    },
+    "tSMpM0": {
+        "message": "授予访问热门网站和读取网站图标的权限",
+        "description": "Top Sites widget: permission request"
+    },
+    "8xPAKF": {
+        "message": "对于每个渐变色，可以调整的范围为 0-100%",
+        "description": "Form field hint (Stop)"
+    },
+    "ATbgo4": {
+        "message": "径向 (Radial)",
+        "description": "Form field option, radial gradient"
+    },
+    "B3NCWb": {
+        "message": "色彩",
+        "description": "Form field label"
+    },
+    "BfX7n6": {
+        "message": "注意：在Firefox上可能会导致渐变背景上出现线条之类的色彩错误。这不是我们能够解决的。",
+        "description": "Gradient background disclaimer on Firefox"
+    },
+    "BmzsQb": {
+        "message": "一个链接，支持标题和图标（九宫格）",
+        "description": "Links widget description"
+    },
+    "C7WJrL": {
+        "message": "垂直 (Vertical)",
+        "description": "Form field option, vertical gradient"
+    },
+    "O2Mjef": {
+        "message": "评论",
+        "description": "Review request, review button"
+    },
+    "EpPEVJ": {
+        "message": "渐变",
+        "description": "Gradient background mode"
+    },
+    "Oa5RYo": {
+        "message": "<b>部件也可以进行调整</b>：将鼠标悬停在小部件上，单击铅笔图标进行调整。",
+        "description": "General settings: help message"
+    },
+    "exTzGh": {
+        "message": "水平 (Horizontal)",
+        "description": "Form field option, horizontal gradient"
+    },
+    "bfWes8": {
+        "message": "渐变类型",
+        "description": "Form field label"
+    },
+    "lQIN1l": {
+        "message": "你喜欢Hüma Başlangıç吗？给我们一个评论吧！"
+    },
+    "n+w6I2": {
+        "message": "渐变停止点（比例）",
+        "description": "Form field label. Gradient stop (%)"
+    },
+    "zPAzlS": {
+        "message": "合并订阅源到单个选项卡中",
+        "description": "Feed widget: form field label"
+    },
+    "SENRqu": {
+        "message": "获取帮助"
+    },
+    "c7zm0j": {
+        "message": "无法加载订阅。请确保这是一个有效的RSS, JSONFeed或Atom订阅源。"
+    },
+    "h00yCR": {
+        "message": "显示来自Atom，JSON或RSS订阅源的最新网络漫画。",
+        "description": "Web Comic widget description"
+    },
+    "20tqYI": {
+        "message": "为日历提供一个指向 iCal (.ics) 的 URL",
+        "description": "CalendarSchedule widget: form field hint (Calendar URL)"
+    },
+    "B4LnaC": {
+        "message": "显示从 iCal (.ics) URL 中获取的代办日程 (例如 Google 日历)",
+        "description": "CalendarSchedule widget: description"
+    },
+    "grbGxs": {
+        "message": "无日程",
+        "description": "CalendarSchedule: no events"
+    },
+    "qfkgCx": {
+        "message": "显示未来多长时间的代办日程。设置为 1 仅显示今天的代办日程，2 则显示今天和明天的代办日程，等等。",
+        "description": "CalendarSchedule widget: form field hint (max number of days)"
+    },
+    "7zYGs9": {
+        "message": "日程",
+        "description": "CalendarSchedule Widget"
+    },
+    "MdUPbJ": {
+        "message": "星期日, 星期一, 星期二, 星期三, 星期四, 星期五, 星期六",
+        "description": "Days of the week, separated by commas"
+    },
+    "MtrTNy": {
+        "message": "明天"
+    },
+    "TDaF6J": {
+        "message": "撤销"
+    },
+    "nlnYxI": {
+        "message": "最长日程天数",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "oPO8GY": {
+        "message": "缺少日历 URL。请编辑这个部件来添加它"
+    },
+    "wETxDh": {
+        "message": "日历",
+        "description": "CalendarSchedule widget: form field label"
+    },
+    "zWgbGg": {
+        "message": "今天"
+    },
+    "pWdLkT": {
+        "message": "请阅读这个<a>教程</a>。你可以使用任何支持 iCal 的云日历服务，包括 Google 日历和 Outlook。",
+        "description": "CalendarSchedule widget: edit hint"
+    },
+    "QkI7Lb": {
+        "message": "浏览器时区 ({browserTimeZone})",
+        "description": "An option when selecting a time zone"
+    },
+    "jGWq1h": {
+        "message": "时区"
+    },
+    "DVGnNH": {
+        "message": "您可以通过悬停鼠标于左下角的制作人员名单上以点赞或跳过当前的背景图像。"
+    },
+    "ilIuh2": {
+        "message": "该小部件是否好用？考虑通过<a>捐赠</a>来支付天气 API 的费用，并且支持 Hüma Başlangıç 未来的发展。",
+        "description": "Weather widget: asking for donations"
+    }
+}
